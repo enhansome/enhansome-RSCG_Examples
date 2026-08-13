@@ -743,7 +743,7 @@ Author: Microsoft
 
 Provides APIs for annotating route handler endpoints in ASP.NET Core with OpenAPI annotations.
 
-This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,369 | 🐛 4,100 | 🌐 C# | 📅 2026-08-13
+This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,369 | 🐛 4,101 | 🌐 C# | 📅 2026-08-13
 
 Nuget: <https://www.nuget.org/packages/Microsoft.AspNetCore.OpenApi/>
 
@@ -800,13 +800,13 @@ Author: Microsoft
 
 Provides APIs for annotating route handler endpoints in ASP.NET Core with OpenAPI annotations.
 
-This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,369 | 🐛 4,100 | 🌐 C# | 📅 2026-08-13
+This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,369 | 🐛 4,101 | 🌐 C# | 📅 2026-08-13
 
 Nuget: <https://www.nuget.org/packages/Microsoft.AspNetCore.OpenApi>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Program>
 
-Source: <https://github.com/dotnet/aspnetcore/> ⭐ 38,369 | 🐛 4,100 | 🌐 C# | 📅 2026-08-13
+Source: <https://github.com/dotnet/aspnetcore/> ⭐ 38,369 | 🐛 4,101 | 🌐 C# | 📅 2026-08-13
 
 </details>
 
@@ -2913,7 +2913,7 @@ Nuget: <https://www.nuget.org/packages/MSTest.SourceGeneration/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/MSTest>
 
-Source: <https://github.com/microsoft/testfx> ⭐ 1,036 | 🐛 94 | 🌐 C# | 📅 2026-08-13
+Source: <https://github.com/microsoft/testfx> ⭐ 1,036 | 🐛 97 | 🌐 C# | 📅 2026-08-13
 
 </details>
 
@@ -3685,7 +3685,7 @@ Nuget: <https://www.nuget.org/packages/Microsoft.Extensions.Telemetry.Abstractio
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/TelemetryLogging>
 
-Source: <https://github.com/dotnet/extensions> ⭐ 3,194 | 🐛 245 | 🌐 C# | 📅 2026-08-12
+Source: <https://github.com/dotnet/extensions> ⭐ 3,195 | 🐛 245 | 🌐 C# | 📅 2026-08-12
 
 </details>
 
@@ -3730,7 +3730,7 @@ Nuget: <https://www.nuget.org/packages/System.Runtime.InteropServices/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Com>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,207 | 🐛 7,679 | 🌐 C# | 📅 2026-08-13
+Source: <https://github.com/dotnet/runtime> ⭐ 18,207 | 🐛 7,681 | 🌐 C# | 📅 2026-08-13
 
 </details>
 
@@ -3751,7 +3751,7 @@ Nuget: <https://www.nuget.org/packages/Microsoft.Extensions.Http>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/RDG>
 
-Source: <https://github.com/dotnet/aspnetcore> ⭐ 38,369 | 🐛 4,100 | 🌐 C# | 📅 2026-08-13
+Source: <https://github.com/dotnet/aspnetcore> ⭐ 38,369 | 🐛 4,101 | 🌐 C# | 📅 2026-08-13
 
 </details>
 
@@ -3789,7 +3789,7 @@ Nuget: <https://www.nuget.org/packages/Microsoft.Extensions.Options>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Microsoft.Extensions.Options.Generators.OptionsValidatorGenerator>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,207 | 🐛 7,679 | 🌐 C# | 📅 2026-08-13
+Source: <https://github.com/dotnet/runtime> ⭐ 18,207 | 🐛 7,681 | 🌐 C# | 📅 2026-08-13
 
 </details>
 
@@ -4855,7 +4855,7 @@ Nuget: <https://www.nuget.org/packages/Refit/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Refit>
 
-Source: <https://github.com/reactiveui/refit> ⭐ 9,558 | 🐛 2 | 🌐 C# | 📅 2026-08-13
+Source: <https://github.com/reactiveui/refit> ⭐ 9,558 | 🐛 1 | 🌐 C# | 📅 2026-08-13
 
 </details>
 
@@ -5328,7 +5328,7 @@ Nuget: <https://www.nuget.org/packages/Microsoft.Extensions.Logging/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Microsoft.Extensions.Logging>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,207 | 🐛 7,679 | 🌐 C# | 📅 2026-08-13
+Source: <https://github.com/dotnet/runtime> ⭐ 18,207 | 🐛 7,681 | 🌐 C# | 📅 2026-08-13
 
 </details>
 
@@ -5374,7 +5374,7 @@ Nuget: <https://www.nuget.org/packages/System.Text.RegularExpressions/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/System.Text.RegularExpressions>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,207 | 🐛 7,679 | 🌐 C# | 📅 2026-08-13
+Source: <https://github.com/dotnet/runtime> ⭐ 18,207 | 🐛 7,681 | 🌐 C# | 📅 2026-08-13
 
 </details>
 
@@ -5412,7 +5412,7 @@ Nuget: <https://www.nuget.org/packages/System.Text.Json/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/System.Text.Json>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,207 | 🐛 7,679 | 🌐 C# | 📅 2026-08-13
+Source: <https://github.com/dotnet/runtime> ⭐ 18,207 | 🐛 7,681 | 🌐 C# | 📅 2026-08-13
 
 </details>
 
