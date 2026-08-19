@@ -1,9 +1,9 @@
 {
   "items": [
     {
-      "description": "If you want to see examples with code, please click List V2\nIf you want just those from Microsoft, please click Microsoft\nIf you want to see by category, please click category or click any category below actor -ai -aop -api -async -audit -bitwise -blazor -bool -builder -clone -codetostring -commandline -console -constructor -database -decorator -dependencyinjection -disposer -documentation -enhancementclass -enhancementproject -enum -equals -filestocode -functionalprogramming -hangfire -idempotency -interface -linq -mapper -mcp -mediator -mixin -mvc -mvvm -optimizer -primitiveobsession -profiler -rx -serializer -signalr -statemachine -templating -tests -validator -winapi -",
+      "description": "If you want to see examples with code, please click List V2\nIf you want just those from Microsoft, please click Microsoft\nIf you want to see by category, please click category or click any category below actor -ai -aop -api -async -audit -bitwise -blazor -bool -builder -clone -codetostring -commandline -console -constructor -database -decorator -dependencyinjection -disposer -documentation -enhancementclass -enhancementproject -entityframework -enum -equals -filestocode -functionalprogramming -hangfire -idempotency -interface -linq -mapper -mcp -mediator -mixin -mvc -mvvm -optimizer -primitiveobsession -profiler -rx -serializer -signalr -statemachine -templating -tests -validator -winapi -",
       "items": [],
-      "title": "Latest Update : 2026-07-04 => 04 July 2026"
+      "title": "Latest Update : 2026-08-18 => 18 August 2026"
     },
     {
       "description": "If you want to help, see below .\nIf you want to be notified each time I add a new RSCG example , please click https://dashboard.mailerlite.com/forms/611357/100178843411678256/share",
@@ -11,9 +11,14 @@
       "title": "If you have a Roslyn Source Code Generator, please create an issue."
     },
     {
-      "description": "Those are the 277 Roslyn Source Code Generators that I have tested you can see and download source code example. ( including 16 from Microsoft )",
+      "description": "Those are the 278 Roslyn Source Code Generators that I have tested you can see and download source code example. ( including 16 from Microsoft )",
       "items": [],
       "title": "Content"
+    },
+    {
+      "description": "Generated on : 2026-08-18 => 18 August 2026\nAuthor: Angius Atulin\nPackage Description\nNuget: https://www.nuget.org/packages/Atulin.AutoDbSet/\nLink: https://ignatandrei.github.io/RSCG_Examples/v2/docs/Atulin.AutoDbSet\nSource: https://github.com/Atulin/AutoDbSet",
+      "items": [],
+      "title": "278. Atulin.AutoDbSet , in the EntityFramework category"
     },
     {
       "description": "Generated on : 2026-07-04 => 04 July 2026\nAuthor: Brian Bennewitz\nAssembly info incremental source generator.\nNuget: https://www.nuget.org/packages/Bennewitz.Ninja.AutoVersioning/\nLink: https://ignatandrei.github.io/RSCG_Examples/v2/docs/Bennewitz.Ninja.AutoVersioning\nSource: https://github.com/JanusMael/Bennewitz.Ninja.AutoVersioning",
@@ -468,7 +473,7 @@
     {
       "description": "Generated on : 2025-02-19 => 19 February 2025\nAuthor: Taras Kovalenko\nA C# source generator that automatically generates string length constants from Entity Framework configurations and data annotations.\nNuget: https://www.nuget.org/packages/EntityLengths.Generator/\nLink: https://ignatandrei.github.io/RSCG_Examples/v2/docs/EntityLengths.Generator\nSource: https://github.com/TarasKovalenko/EntityLengths.Generator/",
       "items": [],
-      "title": "187. EntityLengths.Generator , in the Database category"
+      "title": "187. EntityLengths.Generator , in the EntityFramework category"
     },
     {
       "description": "Generated on : 2025-02-18 => 18 February 2025\nAuthor: Ignat Andrei\nInterface to null object - common\nNuget: https://www.nuget.org/packages/RSCG_CompositeProvider/\nLink: https://ignatandrei.github.io/RSCG_Examples/v2/docs/RSCG_CompositeProvider\nSource: https://github.com/ignatandrei/RSCG_CompositeProvider",
@@ -1402,11 +1407,11 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T05:59:17.179Z",
+    "last_updated": "2026-08-19T06:00:07.605Z",
     "original_repository": "ignatandrei/RSCG_Examples",
-    "original_repository_sha": "21489593f65ec8ef17cd520c7540d29835f1d779",
+    "original_repository_sha": "4548655228a7a1f1970240e92947890fb670ff1e",
     "enhanced_repository": "enhansome/enhansome-RSCG_Examples",
     "enhanced_repository_description": null,
-    "title": "Awesome RSCG - 277 Examples of Roslyn Source Code Generators / 16 created by Microsoft / with stars"
+    "title": "Awesome RSCG - 278 Examples of Roslyn Source Code Generators / 16 created by Microsoft / with stars"
   }
 }
