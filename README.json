@@ -1,12 +1,12 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-20T06:00:45.192Z",
+    "last_updated": "2026-08-21T06:02:23.633Z",
     "original_repository": "ignatandrei/RSCG_Examples",
     "original_repository_id": 338777978,
-    "original_repository_sha": "bc01142de9a649b320bd6e00131ccffa7be7bdd4",
+    "original_repository_sha": "27f9f08ce16e45e213744d4a5855ccdaf2571466",
     "enhanced_repository": "enhansome/enhansome-RSCG_Examples",
     "enhanced_repository_description": null,
-    "title": "Awesome RSCG - 280 Examples of Roslyn Source Code Generators / 16 created by Microsoft / with stars"
+    "title": "Awesome RSCG - 282 Examples of Roslyn Source Code Generators / 16 created by Microsoft / with stars"
   }
 }
