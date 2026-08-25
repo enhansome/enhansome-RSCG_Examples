@@ -859,7 +859,7 @@ Author: Microsoft
 
 Provides APIs for annotating route handler endpoints in ASP.NET Core with OpenAPI annotations.
 
-This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,391 | 🐛 4,127 | 🌐 C# | 📅 2026-08-25
+This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,391 | 🐛 4,130 | 🌐 C# | 📅 2026-08-25
 
 Nuget: <https://www.nuget.org/packages/Microsoft.AspNetCore.OpenApi/>
 
@@ -882,7 +882,7 @@ Nuget: <https://www.nuget.org/packages/TUnit/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/TUnit>
 
-Source: <https://github.com/thomhurst/TUnit> ⭐ 3,926 | 🐛 11 | 🌐 C# | 📅 2026-08-25
+Source: <https://github.com/thomhurst/TUnit> ⭐ 3,926 | 🐛 12 | 🌐 C# | 📅 2026-08-25
 
 </details>
 
@@ -916,13 +916,13 @@ Author: Microsoft
 
 Provides APIs for annotating route handler endpoints in ASP.NET Core with OpenAPI annotations.
 
-This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,391 | 🐛 4,127 | 🌐 C# | 📅 2026-08-25
+This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,391 | 🐛 4,130 | 🌐 C# | 📅 2026-08-25
 
 Nuget: <https://www.nuget.org/packages/Microsoft.AspNetCore.OpenApi>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Program>
 
-Source: <https://github.com/dotnet/aspnetcore/> ⭐ 38,391 | 🐛 4,127 | 🌐 C# | 📅 2026-08-25
+Source: <https://github.com/dotnet/aspnetcore/> ⭐ 38,391 | 🐛 4,130 | 🌐 C# | 📅 2026-08-25
 
 </details>
 
@@ -1074,7 +1074,7 @@ Nuget: <https://www.nuget.org/packages/Facet/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Facet>
 
-Source: <https://github.com/Tim-Maes/Facet/> ⭐ 1,203 | 🐛 14 | 🌐 C# | 📅 2026-08-24
+Source: <https://github.com/Tim-Maes/Facet/> ⭐ 1,203 | 🐛 14 | 🌐 C# | 📅 2026-08-25
 
 </details>
 
@@ -3029,7 +3029,7 @@ Nuget: <https://www.nuget.org/packages/MSTest.SourceGeneration/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/MSTest>
 
-Source: <https://github.com/microsoft/testfx> ⭐ 1,039 | 🐛 94 | 🌐 C# | 📅 2026-08-25
+Source: <https://github.com/microsoft/testfx> ⭐ 1,039 | 🐛 92 | 🌐 C# | 📅 2026-08-25
 
 </details>
 
@@ -3846,7 +3846,7 @@ Nuget: <https://www.nuget.org/packages/System.Runtime.InteropServices/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Com>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,226 | 🐛 7,593 | 🌐 C# | 📅 2026-08-25
+Source: <https://github.com/dotnet/runtime> ⭐ 18,225 | 🐛 7,592 | 🌐 C# | 📅 2026-08-25
 
 </details>
 
@@ -3867,7 +3867,7 @@ Nuget: <https://www.nuget.org/packages/Microsoft.Extensions.Http>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/RDG>
 
-Source: <https://github.com/dotnet/aspnetcore> ⭐ 38,391 | 🐛 4,127 | 🌐 C# | 📅 2026-08-25
+Source: <https://github.com/dotnet/aspnetcore> ⭐ 38,391 | 🐛 4,130 | 🌐 C# | 📅 2026-08-25
 
 </details>
 
@@ -3905,7 +3905,7 @@ Nuget: <https://www.nuget.org/packages/Microsoft.Extensions.Options>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Microsoft.Extensions.Options.Generators.OptionsValidatorGenerator>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,226 | 🐛 7,593 | 🌐 C# | 📅 2026-08-25
+Source: <https://github.com/dotnet/runtime> ⭐ 18,225 | 🐛 7,592 | 🌐 C# | 📅 2026-08-25
 
 </details>
 
@@ -5258,7 +5258,7 @@ Nuget: <https://www.nuget.org/packages/Vogen/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Vogen>
 
-Source: <https://github.com/SteveDunn/Vogen> ⭐ 1,490 | 🐛 52 | 🌐 C# | 📅 2026-08-24
+Source: <https://github.com/SteveDunn/Vogen> ⭐ 1,490 | 🐛 53 | 🌐 C# | 📅 2026-08-24
 
 </details>
 
@@ -5444,7 +5444,7 @@ Nuget: <https://www.nuget.org/packages/Microsoft.Extensions.Logging/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Microsoft.Extensions.Logging>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,226 | 🐛 7,593 | 🌐 C# | 📅 2026-08-25
+Source: <https://github.com/dotnet/runtime> ⭐ 18,225 | 🐛 7,592 | 🌐 C# | 📅 2026-08-25
 
 </details>
 
@@ -5490,7 +5490,7 @@ Nuget: <https://www.nuget.org/packages/System.Text.RegularExpressions/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/System.Text.RegularExpressions>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,226 | 🐛 7,593 | 🌐 C# | 📅 2026-08-25
+Source: <https://github.com/dotnet/runtime> ⭐ 18,225 | 🐛 7,592 | 🌐 C# | 📅 2026-08-25
 
 </details>
 
@@ -5528,7 +5528,7 @@ Nuget: <https://www.nuget.org/packages/System.Text.Json/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/System.Text.Json>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,226 | 🐛 7,593 | 🌐 C# | 📅 2026-08-25
+Source: <https://github.com/dotnet/runtime> ⭐ 18,225 | 🐛 7,592 | 🌐 C# | 📅 2026-08-25
 
 </details>
 
@@ -6149,7 +6149,7 @@ Why I have not tested : old ISourceGenerator
 
 Why I have not tested : old ISourceGenerator
 
-14. [ComputeSharp](https://github.com/Sergio0694/ComputeSharp) ⭐ 3,159 | 🐛 40 | 🌐 C# | 📅 2026-08-13 , <https://github.com/Sergio0694/ComputeSharp> ⭐ 3,159 | 🐛 40 | 🌐 C# | 📅 2026-08-13
+14. [ComputeSharp](https://github.com/Sergio0694/ComputeSharp) ⭐ 3,160 | 🐛 40 | 🌐 C# | 📅 2026-08-13 , <https://github.com/Sergio0694/ComputeSharp> ⭐ 3,160 | 🐛 40 | 🌐 C# | 📅 2026-08-13
 
 Why I have not tested : not having nuget, but having IIncrementalGenerator
 

@@ -915,7 +915,7 @@
             "archived": false,
             "id": 550902717,
             "language": "C#",
-            "last_commit": "2026-08-25T05:48:10Z",
+            "last_commit": "2026-08-25T07:46:13Z",
             "owner": "dotnet",
             "repo": "dotnet",
             "stars": 1234
@@ -978,7 +978,7 @@
             "archived": false,
             "id": 17620347,
             "language": "C#",
-            "last_commit": "2026-08-25T03:58:14Z",
+            "last_commit": "2026-08-25T07:54:02Z",
             "owner": "dotnet",
             "repo": "aspnetcore",
             "stars": 38391
@@ -1146,7 +1146,7 @@
             "archived": false,
             "id": 970951585,
             "language": "C#",
-            "last_commit": "2026-08-24T01:35:56Z",
+            "last_commit": "2026-08-25T07:50:30Z",
             "owner": "Tim-Maes",
             "repo": "Facet",
             "stars": 1203
@@ -3219,7 +3219,7 @@
             "archived": false,
             "id": 65080725,
             "language": "C#",
-            "last_commit": "2026-08-25T05:33:53Z",
+            "last_commit": "2026-08-25T08:06:53Z",
             "owner": "microsoft",
             "repo": "testfx",
             "stars": 1039
@@ -4080,10 +4080,10 @@
             "archived": false,
             "id": 210716005,
             "language": "C#",
-            "last_commit": "2026-08-25T06:05:10Z",
+            "last_commit": "2026-08-25T07:50:09Z",
             "owner": "dotnet",
             "repo": "runtime",
-            "stars": 18226
+            "stars": 18225
           }
         }
       ],
@@ -4101,7 +4101,7 @@
             "archived": false,
             "id": 17620347,
             "language": "C#",
-            "last_commit": "2026-08-25T03:58:14Z",
+            "last_commit": "2026-08-25T07:54:02Z",
             "owner": "dotnet",
             "repo": "aspnetcore",
             "stars": 38391
@@ -4122,10 +4122,10 @@
             "archived": false,
             "id": 210716005,
             "language": "C#",
-            "last_commit": "2026-08-25T06:05:10Z",
+            "last_commit": "2026-08-25T07:50:09Z",
             "owner": "dotnet",
             "repo": "runtime",
-            "stars": 18226
+            "stars": 18225
           }
         }
       ],
@@ -5676,10 +5676,10 @@
             "archived": false,
             "id": 210716005,
             "language": "C#",
-            "last_commit": "2026-08-25T06:05:10Z",
+            "last_commit": "2026-08-25T07:50:09Z",
             "owner": "dotnet",
             "repo": "runtime",
-            "stars": 18226
+            "stars": 18225
           }
         }
       ],
@@ -5718,10 +5718,10 @@
             "archived": false,
             "id": 210716005,
             "language": "C#",
-            "last_commit": "2026-08-25T06:05:10Z",
+            "last_commit": "2026-08-25T07:50:09Z",
             "owner": "dotnet",
             "repo": "runtime",
-            "stars": 18226
+            "stars": 18225
           }
         }
       ],
@@ -5760,10 +5760,10 @@
             "archived": false,
             "id": 210716005,
             "language": "C#",
-            "last_commit": "2026-08-25T06:05:10Z",
+            "last_commit": "2026-08-25T07:50:09Z",
             "owner": "dotnet",
             "repo": "runtime",
-            "stars": 18226
+            "stars": 18225
           }
         }
       ],
@@ -8322,7 +8322,7 @@
             "last_commit": "2026-08-13T21:44:22Z",
             "owner": "Sergio0694",
             "repo": "ComputeSharp",
-            "stars": 3159
+            "stars": 3160
           }
         },
         {
@@ -9725,7 +9725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:28:55.271Z",
+    "last_updated": "2026-08-25T08:07:15.623Z",
     "original_repository": "ignatandrei/RSCG_Examples",
     "original_repository_id": 338777978,
     "original_repository_sha": "7514f486d2d52f48dcc57f73841b76e8bcdbace5",
