@@ -642,7 +642,7 @@
             "archived": false,
             "id": 913311293,
             "language": "C#",
-            "last_commit": "2026-08-18T10:45:49Z",
+            "last_commit": "2026-08-24T19:50:38Z",
             "owner": "lofcz",
             "repo": "FastCloner",
             "stars": 367
@@ -915,7 +915,7 @@
             "archived": false,
             "id": 550902717,
             "language": "C#",
-            "last_commit": "2026-08-24T14:17:53Z",
+            "last_commit": "2026-08-25T05:48:10Z",
             "owner": "dotnet",
             "repo": "dotnet",
             "stars": 1234
@@ -936,10 +936,10 @@
             "archived": false,
             "id": 747691207,
             "language": "C#",
-            "last_commit": "2026-08-24T12:37:54Z",
+            "last_commit": "2026-08-25T02:43:04Z",
             "owner": "thomhurst",
             "repo": "TUnit",
-            "stars": 3925
+            "stars": 3926
           }
         }
       ],
@@ -978,10 +978,10 @@
             "archived": false,
             "id": 17620347,
             "language": "C#",
-            "last_commit": "2026-08-24T14:28:48Z",
+            "last_commit": "2026-08-25T03:58:14Z",
             "owner": "dotnet",
             "repo": "aspnetcore",
-            "stars": 38392
+            "stars": 38391
           }
         }
       ],
@@ -1800,7 +1800,7 @@
             "last_commit": "2025-03-10T22:41:11Z",
             "owner": "DimonSmart",
             "repo": "BuilderGenerator",
-            "stars": 2
+            "stars": 3
           }
         }
       ],
@@ -1923,7 +1923,7 @@
             "archived": false,
             "id": 774457081,
             "language": "C#",
-            "last_commit": "2026-08-17T23:18:13Z",
+            "last_commit": "2026-08-25T03:19:21Z",
             "owner": "ImmediatePlatform",
             "repo": "Immediate.Apis",
             "stars": 41
@@ -2946,7 +2946,7 @@
             "archived": false,
             "id": 768677771,
             "language": "C#",
-            "last_commit": "2026-08-24T14:39:16Z",
+            "last_commit": "2026-08-24T15:29:56Z",
             "owner": "westermo",
             "repo": "FactoryGenerator",
             "stars": 4
@@ -3219,7 +3219,7 @@
             "archived": false,
             "id": 65080725,
             "language": "C#",
-            "last_commit": "2026-08-24T14:31:21Z",
+            "last_commit": "2026-08-25T05:33:53Z",
             "owner": "microsoft",
             "repo": "testfx",
             "stars": 1039
@@ -3240,7 +3240,7 @@
             "archived": false,
             "id": 766490843,
             "language": "C#",
-            "last_commit": "2026-08-23T06:35:24Z",
+            "last_commit": "2026-08-25T00:17:32Z",
             "owner": "usausa",
             "repo": "bunnytail-common-code",
             "stars": 1
@@ -3828,7 +3828,7 @@
             "archived": false,
             "id": 618145432,
             "language": "C#",
-            "last_commit": "2026-08-20T22:53:37Z",
+            "last_commit": "2026-08-24T22:53:46Z",
             "owner": "linkdotnet",
             "repo": "BuildInformation",
             "stars": 21
@@ -4038,10 +4038,10 @@
             "archived": false,
             "id": 30932325,
             "language": "C#",
-            "last_commit": "2026-08-24T05:04:30Z",
+            "last_commit": "2026-08-24T18:38:49Z",
             "owner": "dotnet",
             "repo": "extensions",
-            "stars": 3201
+            "stars": 3202
           }
         }
       ],
@@ -4080,7 +4080,7 @@
             "archived": false,
             "id": 210716005,
             "language": "C#",
-            "last_commit": "2026-08-24T14:29:38Z",
+            "last_commit": "2026-08-25T06:05:10Z",
             "owner": "dotnet",
             "repo": "runtime",
             "stars": 18226
@@ -4101,10 +4101,10 @@
             "archived": false,
             "id": 17620347,
             "language": "C#",
-            "last_commit": "2026-08-24T14:28:48Z",
+            "last_commit": "2026-08-25T03:58:14Z",
             "owner": "dotnet",
             "repo": "aspnetcore",
-            "stars": 38392
+            "stars": 38391
           }
         }
       ],
@@ -4122,7 +4122,7 @@
             "archived": false,
             "id": 210716005,
             "language": "C#",
-            "last_commit": "2026-08-24T14:29:38Z",
+            "last_commit": "2026-08-25T06:05:10Z",
             "owner": "dotnet",
             "repo": "runtime",
             "stars": 18226
@@ -4524,7 +4524,7 @@
             "last_commit": "2025-03-10T00:47:53Z",
             "owner": "MelGrubb",
             "repo": "BuilderGenerator",
-            "stars": 52
+            "stars": 53
           }
         }
       ],
@@ -4983,7 +4983,7 @@
             "archived": false,
             "id": 289760110,
             "language": "C#",
-            "last_commit": "2026-08-23T21:56:12Z",
+            "last_commit": "2026-08-24T17:56:37Z",
             "owner": "sveinungf",
             "repo": "spreadcheetah",
             "stars": 697
@@ -5046,10 +5046,10 @@
             "archived": false,
             "id": 311108413,
             "language": "C#",
-            "last_commit": "2026-08-19T01:49:04Z",
+            "last_commit": "2026-08-25T01:49:19Z",
             "owner": "Nyrest",
             "repo": "FastGenericNew",
-            "stars": 279
+            "stars": 280
           }
         }
       ],
@@ -5175,7 +5175,7 @@
             "last_commit": "2026-07-08T03:22:18Z",
             "owner": "Cysharp",
             "repo": "MemoryPack",
-            "stars": 4704
+            "stars": 4705
           }
         }
       ],
@@ -5508,10 +5508,10 @@
             "archived": false,
             "id": 432992449,
             "language": "C#",
-            "last_commit": "2026-08-17T21:24:10Z",
+            "last_commit": "2026-08-24T21:25:11Z",
             "owner": "SteveDunn",
             "repo": "Vogen",
-            "stars": 1489
+            "stars": 1490
           }
         }
       ],
@@ -5550,7 +5550,7 @@
             "archived": false,
             "id": 512087796,
             "language": "C#",
-            "last_commit": "2026-08-19T23:55:53Z",
+            "last_commit": "2026-08-24T23:56:11Z",
             "owner": "distantcam",
             "repo": "AutoCtor",
             "stars": 113
@@ -5676,7 +5676,7 @@
             "archived": false,
             "id": 210716005,
             "language": "C#",
-            "last_commit": "2026-08-24T14:29:38Z",
+            "last_commit": "2026-08-25T06:05:10Z",
             "owner": "dotnet",
             "repo": "runtime",
             "stars": 18226
@@ -5718,7 +5718,7 @@
             "archived": false,
             "id": 210716005,
             "language": "C#",
-            "last_commit": "2026-08-24T14:29:38Z",
+            "last_commit": "2026-08-25T06:05:10Z",
             "owner": "dotnet",
             "repo": "runtime",
             "stars": 18226
@@ -5760,7 +5760,7 @@
             "archived": false,
             "id": 210716005,
             "language": "C#",
-            "last_commit": "2026-08-24T14:29:38Z",
+            "last_commit": "2026-08-25T06:05:10Z",
             "owner": "dotnet",
             "repo": "runtime",
             "stars": 18226
@@ -5831,7 +5831,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=AdaskoTheBeAsT.Identity.Dapper&body=https://github.com/AdaskoTheBeAsT/AdaskoTheBeAsT.Identity.Dapper",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5861,7 +5861,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=ApiClientGenerator&body=https://github.com/surgicalcoder/ApiClientGenerator",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5891,7 +5891,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=AttributeFactoryGenerator&body=https://github.com/PaulBraetz/AttributeFactoryGenerator",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5921,7 +5921,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=Azura&body=https://github.com/cyriaca/Azura",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5951,7 +5951,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=BigMachines&body=https://github.com/archi-Doc/BigMachines",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5981,7 +5981,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=boilerplatezero&body=https://github.com/IGood/boilerplatezero",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6011,7 +6011,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=ControllerGenerator&body=https://github.com/cloud0259/ControllerGenerator",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6041,7 +6041,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=DependencyManagement&body=https://github.com/essy-ecosystem/dependency-management",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6071,7 +6071,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=DependencyPropertyGenerator&body=https://github.com/HavenDV/DependencyPropertyGenerator",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6101,7 +6101,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=Dexie&body=https://github.com/b-straub/DexieNET",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6131,7 +6131,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=DUnion&body=https://github.com/danny-may/DUnion/",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6161,7 +6161,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=epj.RouteGenerator&body=https://github.com/ewerspej/epj.RouteGenerator",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6183,15 +6183,15 @@
             "archived": false,
             "id": 407023726,
             "language": "C#",
-            "last_commit": "2026-08-22T10:11:16Z",
+            "last_commit": "2026-08-25T02:35:49Z",
             "owner": "FastEndpoints",
             "repo": "FastEndpoints",
-            "stars": 6000
+            "stars": 5999
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=FastEndpoints&body=https://github.com/FastEndpoints/FastEndpoints",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6221,7 +6221,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=GRPC-Mock-Server&body=https://github.com/cezarypiatek/GRPC-Mock-Server",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6251,7 +6251,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=H.NSwag.Generator&body=https://github.com/HavenDV/H.NSwag.Generator",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6281,7 +6281,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=Hexa.Protobuf&body=https://github.com/HexaEngine/Hexa.Protobuf",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6296,7 +6296,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Agentew04/CliToolkit",
+          "title": "Agentew04/CliToolkit",
           "description": ", https://github.com/Agentew04/CliToolkit",
           "children": [],
           "repo_info": {
@@ -6311,7 +6311,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/Agentew04/CliToolkit&body=https://github.com/Agentew04/CliToolkit",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6326,7 +6326,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/AlexNav73/CoreCraft",
+          "title": "AlexNav73/CoreCraft",
           "description": ", https://github.com/AlexNav73/CoreCraft",
           "children": [],
           "repo_info": {
@@ -6341,7 +6341,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/AlexNav73/CoreCraft&body=https://github.com/AlexNav73/CoreCraft",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6356,7 +6356,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/atc-net/atc-source-generators",
+          "title": "atc-net/atc-source-generators",
           "description": ", https://github.com/atc-net/atc-source-generators",
           "children": [],
           "repo_info": {
@@ -6371,7 +6371,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/atc-net/atc-source-generators&body=https://github.com/atc-net/atc-source-generators",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6386,7 +6386,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Atoen/TextLocalizer",
+          "title": "Atoen/TextLocalizer",
           "description": ", https://github.com/Atoen/TextLocalizer",
           "children": [],
           "repo_info": {
@@ -6401,7 +6401,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/Atoen/TextLocalizer&body=https://github.com/Atoen/TextLocalizer",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6416,7 +6416,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Aymen83/AspectWeaver",
+          "title": "Aymen83/AspectWeaver",
           "description": ", https://github.com/Aymen83/AspectWeaver",
           "children": [],
           "repo_info": {
@@ -6431,7 +6431,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/Aymen83/AspectWeaver&body=https://github.com/Aymen83/AspectWeaver",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6446,7 +6446,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/bjornhellander/TestInheritanceGenerator",
+          "title": "bjornhellander/TestInheritanceGenerator",
           "description": ", https://github.com/bjornhellander/TestInheritanceGenerator",
           "children": [],
           "repo_info": {
@@ -6461,7 +6461,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/bjornhellander/TestInheritanceGenerator&body=https://github.com/bjornhellander/TestInheritanceGenerator",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6476,7 +6476,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/borisdj/CsCodeGenerator",
+          "title": "borisdj/CsCodeGenerator",
           "description": ", https://github.com/borisdj/CsCodeGenerator",
           "children": [],
           "repo_info": {
@@ -6486,12 +6486,12 @@
             "last_commit": "2025-03-17T15:18:16Z",
             "owner": "borisdj",
             "repo": "CsCodeGenerator",
-            "stars": 115
+            "stars": 116
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/borisdj/CsCodeGenerator&body=https://github.com/borisdj/CsCodeGenerator",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6506,14 +6506,14 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/buchmiet/FastFsm",
+          "title": "buchmiet/FastFsm",
           "description": ", https://github.com/buchmiet/FastFsm",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1021072977,
             "language": "C#",
-            "last_commit": "2026-08-24T14:33:17Z",
+            "last_commit": "2026-08-24T23:47:38Z",
             "owner": "buchmiet",
             "repo": "FastFsm",
             "stars": 1
@@ -6521,7 +6521,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/buchmiet/FastFsm&body=https://github.com/buchmiet/FastFsm",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6536,7 +6536,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/chickensoft-games/LogicBlocks",
+          "title": "chickensoft-games/LogicBlocks",
           "description": ", https://github.com/chickensoft-games/LogicBlocks",
           "children": [],
           "repo_info": {
@@ -6551,7 +6551,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/chickensoft-games/LogicBlocks&body=https://github.com/chickensoft-games/LogicBlocks",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6566,7 +6566,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/dgmjr-io/InterfaceGenerator",
+          "title": "dgmjr-io/InterfaceGenerator",
           "description": ", https://github.com/dgmjr-io/InterfaceGenerator",
           "children": [],
           "repo_info": {
@@ -6581,7 +6581,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/dgmjr-io/InterfaceGenerator&body=https://github.com/dgmjr-io/InterfaceGenerator",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6596,7 +6596,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/eddievelasquez/IntercodeToolbox",
+          "title": "eddievelasquez/IntercodeToolbox",
           "description": ", https://github.com/eddievelasquez/IntercodeToolbox",
           "children": [],
           "repo_info": {
@@ -6611,7 +6611,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/eddievelasquez/IntercodeToolbox&body=https://github.com/eddievelasquez/IntercodeToolbox",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6626,14 +6626,14 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/FoundatioFx/Foundatio.Mediator",
+          "title": "FoundatioFx/Foundatio.Mediator",
           "description": ", https://github.com/FoundatioFx/Foundatio.Mediator",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1022873381,
             "language": "C#",
-            "last_commit": "2026-08-17T22:19:37Z",
+            "last_commit": "2026-08-24T22:19:50Z",
             "owner": "FoundatioFx",
             "repo": "Foundatio.Mediator",
             "stars": 40
@@ -6641,7 +6641,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/FoundatioFx/Foundatio.Mediator&body=https://github.com/FoundatioFx/Foundatio.Mediator",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6656,7 +6656,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/GaoNian-NET/MapperToolkit",
+          "title": "GaoNian-NET/MapperToolkit",
           "description": ", https://github.com/GaoNian-NET/MapperToolkit",
           "children": [],
           "repo_info": {
@@ -6671,7 +6671,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/GaoNian-NET/MapperToolkit&body=https://github.com/GaoNian-NET/MapperToolkit",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6686,7 +6686,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/gumbarros/EndpointHelpers",
+          "title": "gumbarros/EndpointHelpers",
           "description": ", https://github.com/gumbarros/EndpointHelpers",
           "children": [],
           "repo_info": {
@@ -6701,7 +6701,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/gumbarros/EndpointHelpers&body=https://github.com/gumbarros/EndpointHelpers",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6716,7 +6716,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/IeuanWalker/MinimalApi.Endpoints/",
+          "title": "IeuanWalker/MinimalApi.Endpoints",
           "description": ", https://github.com/IeuanWalker/MinimalApi.Endpoints/",
           "children": [],
           "repo_info": {
@@ -6731,7 +6731,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/IeuanWalker/MinimalApi.Endpoints/&body=https://github.com/IeuanWalker/MinimalApi.Endpoints/",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6746,7 +6746,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/inputfalken/Dynatello",
+          "title": "inputfalken/Dynatello",
           "description": ", https://github.com/inputfalken/Dynatello",
           "children": [],
           "repo_info": {
@@ -6761,7 +6761,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/inputfalken/Dynatello&body=https://github.com/inputfalken/Dynatello",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6776,7 +6776,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ionite34/MinimalApiMapper",
+          "title": "ionite34/MinimalApiMapper",
           "description": ", https://github.com/ionite34/MinimalApiMapper",
           "children": [],
           "repo_info": {
@@ -6791,7 +6791,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/ionite34/MinimalApiMapper&body=https://github.com/ionite34/MinimalApiMapper",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6806,7 +6806,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/JasonBock/CslaGeneratorSerialization",
+          "title": "JasonBock/CslaGeneratorSerialization",
           "description": ", https://github.com/JasonBock/CslaGeneratorSerialization",
           "children": [],
           "repo_info": {
@@ -6821,7 +6821,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/JasonBock/CslaGeneratorSerialization&body=https://github.com/JasonBock/CslaGeneratorSerialization",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6836,7 +6836,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/MoslemBenDhaou/DataSurface",
+          "title": "MoslemBenDhaou/DataSurface",
           "description": ", https://github.com/MoslemBenDhaou/DataSurface",
           "children": [],
           "repo_info": {
@@ -6851,7 +6851,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/MoslemBenDhaou/DataSurface&body=https://github.com/MoslemBenDhaou/DataSurface",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6866,7 +6866,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mu-dawood/EasyValidate",
+          "title": "mu-dawood/EasyValidate",
           "description": ", https://github.com/mu-dawood/EasyValidate",
           "children": [],
           "repo_info": {
@@ -6881,7 +6881,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/mu-dawood/EasyValidate&body=https://github.com/mu-dawood/EasyValidate",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6896,7 +6896,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/nuskey8/Csv-CSharp",
+          "title": "nuskey8/Csv-CSharp",
           "description": ", https://github.com/nuskey8/Csv-CSharp",
           "children": [],
           "repo_info": {
@@ -6911,7 +6911,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/nuskey8/Csv-CSharp&body=https://github.com/nuskey8/Csv-CSharp",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6926,7 +6926,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/OrgEleCho/EleCho.Internationalization",
+          "title": "OrgEleCho/EleCho.Internationalization",
           "description": ", https://github.com/OrgEleCho/EleCho.Internationalization",
           "children": [],
           "repo_info": {
@@ -6941,7 +6941,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/OrgEleCho/EleCho.Internationalization&body=https://github.com/OrgEleCho/EleCho.Internationalization",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6956,7 +6956,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/pierre3/PlantUmlClassDiagramGenerator",
+          "title": "pierre3/PlantUmlClassDiagramGenerator",
           "description": ", https://github.com/pierre3/PlantUmlClassDiagramGenerator",
           "children": [],
           "repo_info": {
@@ -6971,7 +6971,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/pierre3/PlantUmlClassDiagramGenerator&body=https://github.com/pierre3/PlantUmlClassDiagramGenerator",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -6986,7 +6986,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/sebastienros/comptime",
+          "title": "sebastienros/comptime",
           "description": ", https://github.com/sebastienros/comptime",
           "children": [],
           "repo_info": {
@@ -7001,7 +7001,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/sebastienros/comptime&body=https://github.com/sebastienros/comptime",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7016,7 +7016,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/stbychkov/AutoLoggerMessage",
+          "title": "stbychkov/AutoLoggerMessage",
           "description": ", https://github.com/stbychkov/AutoLoggerMessage",
           "children": [],
           "repo_info": {
@@ -7031,7 +7031,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/stbychkov/AutoLoggerMessage&body=https://github.com/stbychkov/AutoLoggerMessage",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7046,7 +7046,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Stepami/visitor-net",
+          "title": "Stepami/visitor-net",
           "description": ", https://github.com/Stepami/visitor-net",
           "children": [],
           "repo_info": {
@@ -7061,7 +7061,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/Stepami/visitor-net&body=https://github.com/Stepami/visitor-net",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7076,7 +7076,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/svee4/RequiredStaticMembers&body=https://github.com/svee4/RequiredStaticMembers",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7091,7 +7091,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/SzymonHalucha/Minerals.AutoCommands&body=https://github.com/SzymonHalucha/Minerals.AutoCommands",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7106,7 +7106,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Teleopti/Saspect",
+          "title": "SeniorSyntax/Saspect",
           "description": ", https://github.com/Teleopti/Saspect",
           "children": [],
           "repo_info": {
@@ -7121,7 +7121,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/Teleopti/Saspect&body=https://github.com/Teleopti/Saspect",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7136,7 +7136,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/TheFo2sh/AsyncFlow",
+          "title": "TheFo2sh/AsyncFlow",
           "description": ", https://github.com/TheFo2sh/AsyncFlow",
           "children": [],
           "repo_info": {
@@ -7151,7 +7151,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/TheFo2sh/AsyncFlow&body=https://github.com/TheFo2sh/AsyncFlow",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7166,7 +7166,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/wieslawsoltes/ReactiveGenerator",
+          "title": "wieslawsoltes/ReactiveGenerator",
           "description": ", https://github.com/wieslawsoltes/ReactiveGenerator",
           "children": [],
           "repo_info": {
@@ -7181,7 +7181,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/wieslawsoltes/ReactiveGenerator&body=https://github.com/wieslawsoltes/ReactiveGenerator",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7196,7 +7196,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://www.nuget.org/packages/Aspid.Generators.Helper&body=https://www.nuget.org/packages/Aspid.Generators.Helper",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7211,7 +7211,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://www.nuget.org/packages/AsyncTaskOrchestratorGenerator&body=https://www.nuget.org/packages/AsyncTaskOrchestratorGenerator",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7226,7 +7226,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://www.nuget.org/packages/Csla.Generator.AutoImplementProperties.CSharp/&body=https://www.nuget.org/packages/Csla.Generator.AutoImplementProperties.CSharp/",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7241,7 +7241,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://www.nuget.org/packages/Csla.Generator.AutoSerialization.CSharp/&body=https://www.nuget.org/packages/Csla.Generator.AutoSerialization.CSharp/",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7256,7 +7256,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://www.nuget.org/packages/CTMGenerator&body=https://www.nuget.org/packages/CTMGenerator",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7271,7 +7271,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://www.nuget.org/packages/DecoWeaver&body=https://www.nuget.org/packages/DecoWeaver",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7286,7 +7286,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://www.nuget.org/packages/JsonDerivedTypeGenerator&body=https://www.nuget.org/packages/JsonDerivedTypeGenerator",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7301,7 +7301,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://www.nuget.org/packages/MappingSourceGenerator&body=https://www.nuget.org/packages/MappingSourceGenerator",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7316,7 +7316,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://www.nuget.org/packages/Optikode.FluentMapper&body=https://www.nuget.org/packages/Optikode.FluentMapper",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7331,7 +7331,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://www.nuget.org/packages/SoapProxyPocoGenerator&body=https://www.nuget.org/packages/SoapProxyPocoGenerator",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7346,7 +7346,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://www.nuget.org/packages/TinyMediator&body=https://www.nuget.org/packages/TinyMediator",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7361,7 +7361,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://www.nuget.org/packages/TomRR.SourceGenerator.SettingsBinder&body=https://www.nuget.org/packages/TomRR.SourceGenerator.SettingsBinder",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7376,7 +7376,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://www.nuget.org/packages/X39.Roslyn.Property&body=https://www.nuget.org/packages/X39.Roslyn.Property",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7391,7 +7391,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://www.nuget.org/packages/ZeroReflection.Mapper.Generator/&body=https://www.nuget.org/packages/ZeroReflection.Mapper.Generator/",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7406,7 +7406,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://www.nuget.org/packages/ZeroReflection.Mediator.Generator&body=https://www.nuget.org/packages/ZeroReflection.Mediator.Generator",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7436,7 +7436,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=Intellenum&body=https://github.com/SteveDunn/Intellenum",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7466,7 +7466,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=laker&body=https://github.com/Lakerfield/Lakerfield.Rpc",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7496,7 +7496,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=LoggingDecoratorGenerator&body=https://github.com/DavidFineboym/LoggingDecoratorGenerator",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7526,7 +7526,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=lucide-blazor&body=https://github.com/brecht-vde/lucide-blazor/",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7556,7 +7556,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=ManagedDotnetProfiler&body=https://github.com/kevingosse/ManagedDotnetProfiler",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7586,7 +7586,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=Maui.BindableProperty.Generator&body=https://github.com/rrmanzano/maui-bindableproperty-generator",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7601,7 +7601,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=Minerals.AutoCQRS&body=https://github.com/SzymonHalucha/Minerals.AutoCQRS",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7616,7 +7616,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=Minerals.AutoDomain&body=https://github.com/SzymonHalucha/Minerals.AutoDomain",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7646,7 +7646,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=observable&body=https://github.com/notanaverageman/Bindables",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7671,12 +7671,12 @@
             "last_commit": "2026-05-25T23:24:22Z",
             "owner": "Sergio0694",
             "repo": "PolySharp",
-            "stars": 2219
+            "stars": 2221
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=PolySharp&body=https://github.com/Sergio0694/PolySharp",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7706,7 +7706,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=RazorGen&body=https://github.com/dartk/RazorGen",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7736,7 +7736,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=SerdeDn&body=https://github.com/serdedotnet/serde",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7766,7 +7766,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=SogePoco&body=https://github.com/d-p-y/SogePoco",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7796,7 +7796,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=SourceCrafter.HttpServiceClientGenerator&body=https://github.com/pedro-gilmora/SourceCrafter.HttpServiceClientGenerator/",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7826,7 +7826,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=ST.NSwag.ServerSourceGenerator&body=https://github.com/s-tarasov/ST.NSwag.ServerSourceGenerator",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7856,7 +7856,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=StrongInject&body=https://github.com/YairHalberstadt/stronginject/",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7886,7 +7886,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=TeuJson&body=https://github.com/Terria-K/TeuJson",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7916,7 +7916,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=Tinyhand&body=https://github.com/archi-Doc/Tinyhand",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7946,7 +7946,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=TupleOverloadGenerator&body=https://github.com/ProphetLamb/TupleOverloadGenerator",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -7976,7 +7976,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=TypealizR&body=https://github.com/earloc/TypealizR",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8006,7 +8006,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=UnitTestBlazor&body=https://github.com/bUnit-dev/bUnit",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8036,7 +8036,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=ValueLink&body=https://github.com/archi-Doc/ValueLink",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8066,7 +8066,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=VisitorPatternGenerator&body=https://github.com/hikarin522/VisitorPatternGenerator/",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8096,7 +8096,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ignatandrei/RSCG_Examples/issues/new?title=WrapperValueObject&body=https://github.com/martinothamar/WrapperValueObject",
+          "title": "ignatandrei/RSCG_Examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8322,7 +8322,7 @@
             "last_commit": "2026-08-13T21:44:22Z",
             "owner": "Sergio0694",
             "repo": "ComputeSharp",
-            "stars": 3158
+            "stars": 3159
           }
         },
         {
@@ -8372,7 +8372,7 @@
         },
         {
           "node_type": "item",
-          "title": "Data",
+          "title": "dasMulli/data-builder-generator",
           "description": ", https://github.com/dasMulli/data-builder-generator",
           "children": [],
           "repo_info": {
@@ -8807,7 +8807,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ramhari-dev/PropGenAoT",
+          "title": "ramhari-dev/PropGenAoT",
           "description": ", https://github.com/ramhari-dev/PropGenAoT",
           "children": [],
           "repo_info": {
@@ -9387,7 +9387,7 @@
             "last_commit": "2026-08-21T00:18:41Z",
             "owner": "devlooped",
             "repo": "SmallSharp",
-            "stars": 308
+            "stars": 309
           }
         },
         {
@@ -9579,7 +9579,7 @@
             "archived": false,
             "id": 216883277,
             "language": "C#",
-            "last_commit": "2026-08-12T09:59:45Z",
+            "last_commit": "2026-08-24T20:31:51Z",
             "owner": "wieslawsoltes",
             "repo": "Svg.Skia",
             "stars": 724
@@ -9725,7 +9725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:39:18.279Z",
+    "last_updated": "2026-08-25T06:28:55.271Z",
     "original_repository": "ignatandrei/RSCG_Examples",
     "original_repository_id": 338777978,
     "original_repository_sha": "7514f486d2d52f48dcc57f73841b76e8bcdbace5",
