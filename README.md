@@ -859,13 +859,13 @@ Author: Microsoft
 
 Provides APIs for annotating route handler endpoints in ASP.NET Core with OpenAPI annotations.
 
-This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,400 | 🐛 4,136 | 🌐 C# | 📅 2026-08-29
+This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,400 | 🐛 4,137 | 🌐 C# | 📅 2026-08-29
 
 Nuget: <https://www.nuget.org/packages/Microsoft.AspNetCore.OpenApi/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/XmlCommentGenerator>
 
-Source: <https://github.com/dotnet/dotnet/> ⭐ 1,239 | 🐛 178 | 🌐 C# | 📅 2026-08-29
+Source: <https://github.com/dotnet/dotnet/> ⭐ 1,239 | 🐛 174 | 🌐 C# | 📅 2026-08-29
 
 </details>
 
@@ -916,13 +916,13 @@ Author: Microsoft
 
 Provides APIs for annotating route handler endpoints in ASP.NET Core with OpenAPI annotations.
 
-This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,400 | 🐛 4,136 | 🌐 C# | 📅 2026-08-29
+This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,400 | 🐛 4,137 | 🌐 C# | 📅 2026-08-29
 
 Nuget: <https://www.nuget.org/packages/Microsoft.AspNetCore.OpenApi>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Program>
 
-Source: <https://github.com/dotnet/aspnetcore/> ⭐ 38,400 | 🐛 4,136 | 🌐 C# | 📅 2026-08-29
+Source: <https://github.com/dotnet/aspnetcore/> ⭐ 38,400 | 🐛 4,137 | 🌐 C# | 📅 2026-08-29
 
 </details>
 
@@ -1747,7 +1747,7 @@ Nuget: <https://www.nuget.org/packages/ZLinq.DropInGenerator/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/zlinq>
 
-Source: <https://github.com/Cysharp/ZLinq> ⭐ 5,243 | 🐛 5 | 🌐 C# | 📅 2026-07-08
+Source: <https://github.com/Cysharp/ZLinq> ⭐ 5,245 | 🐛 5 | 🌐 C# | 📅 2026-07-08
 
 </details>
 
@@ -2012,7 +2012,7 @@ Nuget: <https://www.nuget.org/packages/Pure.DI/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Pure.DI>
 
-Source: <https://github.com/DevTeam/Pure.DI> ⭐ 841 | 🐛 5 | 🌐 C# | 📅 2026-08-15
+Source: <https://github.com/DevTeam/Pure.DI> ⭐ 841 | 🐛 5 | 🌐 C# | 📅 2026-08-29
 
 </details>
 
@@ -2145,7 +2145,7 @@ Nuget: <https://www.nuget.org/packages/Microsoft.Windows.CsWin32/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Microsoft.Windows.CsWin32>
 
-Source: <https://github.com/microsoft/CsWin32> ⭐ 2,516 | 🐛 125 | 🌐 C# | 📅 2026-08-28
+Source: <https://github.com/microsoft/CsWin32> ⭐ 2,517 | 🐛 125 | 🌐 C# | 📅 2026-08-28
 
 </details>
 
@@ -3029,7 +3029,7 @@ Nuget: <https://www.nuget.org/packages/MSTest.SourceGeneration/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/MSTest>
 
-Source: <https://github.com/microsoft/testfx> ⭐ 1,041 | 🐛 80 | 🌐 C# | 📅 2026-08-29
+Source: <https://github.com/microsoft/testfx> ⭐ 1,041 | 🐛 82 | 🌐 C# | 📅 2026-08-29
 
 </details>
 
@@ -3846,7 +3846,7 @@ Nuget: <https://www.nuget.org/packages/System.Runtime.InteropServices/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Com>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,234 | 🐛 7,615 | 🌐 C# | 📅 2026-08-29
+Source: <https://github.com/dotnet/runtime> ⭐ 18,235 | 🐛 7,615 | 🌐 C# | 📅 2026-08-29
 
 </details>
 
@@ -3867,7 +3867,7 @@ Nuget: <https://www.nuget.org/packages/Microsoft.Extensions.Http>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/RDG>
 
-Source: <https://github.com/dotnet/aspnetcore> ⭐ 38,400 | 🐛 4,136 | 🌐 C# | 📅 2026-08-29
+Source: <https://github.com/dotnet/aspnetcore> ⭐ 38,400 | 🐛 4,137 | 🌐 C# | 📅 2026-08-29
 
 </details>
 
@@ -3905,7 +3905,7 @@ Nuget: <https://www.nuget.org/packages/Microsoft.Extensions.Options>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Microsoft.Extensions.Options.Generators.OptionsValidatorGenerator>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,234 | 🐛 7,615 | 🌐 C# | 📅 2026-08-29
+Source: <https://github.com/dotnet/runtime> ⭐ 18,235 | 🐛 7,615 | 🌐 C# | 📅 2026-08-29
 
 </details>
 
@@ -4933,7 +4933,7 @@ Nuget: <https://www.nuget.org/packages/Mediator.SourceGenerator>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Mediator>
 
-Source: <https://github.com/martinothamar/Mediator> ⭐ 3,699 | 🐛 39 | 🌐 C# | 📅 2026-03-22
+Source: <https://github.com/martinothamar/Mediator> ⭐ 3,700 | 🐛 39 | 🌐 C# | 📅 2026-03-22
 
 </details>
 
@@ -4971,7 +4971,7 @@ Nuget: <https://www.nuget.org/packages/Refit/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Refit>
 
-Source: <https://github.com/reactiveui/refit> ⭐ 9,563 | 🐛 3 | 🌐 C# | 📅 2026-08-25
+Source: <https://github.com/reactiveui/refit> ⭐ 9,564 | 🐛 3 | 🌐 C# | 📅 2026-08-25
 
 </details>
 
@@ -5444,7 +5444,7 @@ Nuget: <https://www.nuget.org/packages/Microsoft.Extensions.Logging/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Microsoft.Extensions.Logging>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,234 | 🐛 7,615 | 🌐 C# | 📅 2026-08-29
+Source: <https://github.com/dotnet/runtime> ⭐ 18,235 | 🐛 7,615 | 🌐 C# | 📅 2026-08-29
 
 </details>
 
@@ -5490,7 +5490,7 @@ Nuget: <https://www.nuget.org/packages/System.Text.RegularExpressions/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/System.Text.RegularExpressions>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,234 | 🐛 7,615 | 🌐 C# | 📅 2026-08-29
+Source: <https://github.com/dotnet/runtime> ⭐ 18,235 | 🐛 7,615 | 🌐 C# | 📅 2026-08-29
 
 </details>
 
@@ -5528,7 +5528,7 @@ Nuget: <https://www.nuget.org/packages/System.Text.Json/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/System.Text.Json>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,234 | 🐛 7,615 | 🌐 C# | 📅 2026-08-29
+Source: <https://github.com/dotnet/runtime> ⭐ 18,235 | 🐛 7,615 | 🌐 C# | 📅 2026-08-29
 
 </details>
 
@@ -6000,7 +6000,7 @@ Why I have not tested : later
 
 <https://github.com/ignatandrei/RSCG_Examples/issues/new?title=observable&body=https://github.com/notanaverageman/Bindables> ⭐ 126 | 🐛 35 | 🌐 HTML | 📅 2026-08-21
 
-72. [PolySharp](https://github.com/Sergio0694/PolySharp) ⭐ 2,224 | 🐛 35 | 🌐 C# | 📅 2026-05-25 , <https://github.com/Sergio0694/PolySharp> ⭐ 2,224 | 🐛 35 | 🌐 C# | 📅 2026-05-25
+72. [PolySharp](https://github.com/Sergio0694/PolySharp) ⭐ 2,225 | 🐛 35 | 🌐 C# | 📅 2026-05-25 , <https://github.com/Sergio0694/PolySharp> ⭐ 2,225 | 🐛 35 | 🌐 C# | 📅 2026-05-25
 
 Why I have not tested : too complicated
 
