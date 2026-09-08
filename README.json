@@ -1397,8 +1397,8 @@
             "id": 1022770999,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-06T05:22:39Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-08T06:08:06Z",
+            "open_issues": 2,
             "owner": "themidnightgospel",
             "repo": "Imposter",
             "stars": 646,
@@ -1571,11 +1571,11 @@
             "id": 550902717,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-07T10:08:20Z",
-            "open_issues": 164,
+            "last_commit": "2026-09-08T09:43:33Z",
+            "open_issues": 163,
             "owner": "dotnet",
             "repo": "dotnet",
-            "stars": 1255,
+            "stars": 1258,
             "topics": [
               "dotnet",
               "monorepo"
@@ -1601,11 +1601,11 @@
             "id": 747691207,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-07T10:14:31Z",
+            "last_commit": "2026-09-08T09:44:00Z",
             "open_issues": 14,
             "owner": "thomhurst",
             "repo": "TUnit",
-            "stars": 3938,
+            "stars": 3940,
             "topics": [
               "csharp",
               "dotnet",
@@ -1633,7 +1633,7 @@
             "id": 794203017,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-04T02:19:18Z",
+            "last_commit": "2026-09-07T15:02:14Z",
             "open_issues": 10,
             "owner": "tyevco",
             "repo": "TeCLI",
@@ -1660,11 +1660,11 @@
             "id": 17620347,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-07T10:37:02Z",
-            "open_issues": 4135,
+            "last_commit": "2026-09-08T09:36:03Z",
+            "open_issues": 4138,
             "owner": "dotnet",
             "repo": "aspnetcore",
-            "stars": 38426,
+            "stars": 38432,
             "topics": [
               "aspnetcore",
               "dotnet",
@@ -2981,7 +2981,7 @@
             "open_issues": 5,
             "owner": "Cysharp",
             "repo": "ZLinq",
-            "stars": 5259,
+            "stars": 5260,
             "topics": [
               "c-sharp",
               "linq",
@@ -3405,7 +3405,7 @@
             "open_issues": 5,
             "owner": "DevTeam",
             "repo": "Pure.DI",
-            "stars": 842,
+            "stars": 844,
             "topics": [
               "avalonia",
               "composition",
@@ -3624,7 +3624,7 @@
             "id": 317639384,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-04T22:01:43Z",
+            "last_commit": "2026-09-08T00:13:04Z",
             "open_issues": 128,
             "owner": "microsoft",
             "repo": "CsWin32",
@@ -3741,7 +3741,7 @@
             "id": 873588553,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-05T07:14:02Z",
+            "last_commit": "2026-09-08T08:57:48Z",
             "open_issues": 1,
             "owner": "credfeto",
             "repo": "credfeto-version-constants-generator",
@@ -3960,7 +3960,7 @@
             "open_issues": 9,
             "owner": "ImmediatePlatform",
             "repo": "Immediate.Handlers",
-            "stars": 200,
+            "stars": 201,
             "topics": [
               "csharp-sourcegenerator",
               "mediator",
@@ -4284,7 +4284,7 @@
             "id": 295828621,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-03T14:33:21Z",
+            "last_commit": "2026-09-07T14:36:04Z",
             "open_issues": 4,
             "owner": "devlooped",
             "repo": "ThisAssembly",
@@ -4314,7 +4314,7 @@
             "id": 295828621,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-03T14:33:21Z",
+            "last_commit": "2026-09-07T14:36:04Z",
             "open_issues": 4,
             "owner": "devlooped",
             "repo": "ThisAssembly",
@@ -4371,7 +4371,7 @@
             "id": 295828621,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-03T14:33:21Z",
+            "last_commit": "2026-09-07T14:36:04Z",
             "open_issues": 4,
             "owner": "devlooped",
             "repo": "ThisAssembly",
@@ -4928,11 +4928,11 @@
             "id": 65080725,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-07T10:35:44Z",
-            "open_issues": 79,
+            "last_commit": "2026-09-08T09:58:51Z",
+            "open_issues": 74,
             "owner": "microsoft",
             "repo": "testfx",
-            "stars": 1043,
+            "stars": 1044,
             "topics": [
               "dotnet",
               "microsoft",
@@ -5603,7 +5603,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-07T00:36:21Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "dotmake-build",
             "repo": "command-line",
             "stars": 169,
@@ -6162,7 +6162,7 @@
             "open_issues": 259,
             "owner": "dotnet",
             "repo": "extensions",
-            "stars": 3205,
+            "stars": 3206,
             "topics": [
               "dotnet"
             ]
@@ -6214,11 +6214,11 @@
             "id": 210716005,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-07T10:31:38Z",
-            "open_issues": 7709,
+            "last_commit": "2026-09-08T09:57:40Z",
+            "open_issues": 7747,
             "owner": "dotnet",
             "repo": "runtime",
-            "stars": 18253,
+            "stars": 18254,
             "topics": [
               "dotnet",
               "hacktoberfest",
@@ -6245,11 +6245,11 @@
             "id": 17620347,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-07T10:37:02Z",
-            "open_issues": 4135,
+            "last_commit": "2026-09-08T09:36:03Z",
+            "open_issues": 4138,
             "owner": "dotnet",
             "repo": "aspnetcore",
-            "stars": 38426,
+            "stars": 38432,
             "topics": [
               "aspnetcore",
               "dotnet",
@@ -6277,11 +6277,11 @@
             "id": 210716005,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-07T10:31:38Z",
-            "open_issues": 7709,
+            "last_commit": "2026-09-08T09:57:40Z",
+            "open_issues": 7747,
             "owner": "dotnet",
             "repo": "runtime",
-            "stars": 18253,
+            "stars": 18254,
             "topics": [
               "dotnet",
               "hacktoberfest",
@@ -6605,7 +6605,7 @@
             "id": 562318498,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-07T01:48:42Z",
+            "last_commit": "2026-09-08T08:55:01Z",
             "open_issues": 1,
             "owner": "credfeto",
             "repo": "credfeto-enum-source-generation",
@@ -6668,7 +6668,7 @@
             "id": 650419459,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-07T06:04:53Z",
+            "last_commit": "2026-09-07T21:49:33Z",
             "open_issues": 3,
             "owner": "meziantou",
             "repo": "Meziantou.Polyfill",
@@ -7043,7 +7043,7 @@
             "id": 295828621,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-03T14:33:21Z",
+            "last_commit": "2026-09-07T14:36:04Z",
             "open_issues": 4,
             "owner": "devlooped",
             "repo": "ThisAssembly",
@@ -7484,7 +7484,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-08-27T11:36:50Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "zompinc",
             "repo": "sync-method-generator",
             "stars": 84,
@@ -7892,7 +7892,7 @@
             "open_issues": 39,
             "owner": "martinothamar",
             "repo": "Mediator",
-            "stars": 3710,
+            "stars": 3713,
             "topics": [
               "csharp",
               "csharp-sourcegenerator",
@@ -8134,11 +8134,11 @@
             "id": 459090159,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T07:05:54Z",
-            "open_issues": 60,
+            "last_commit": "2026-09-07T16:58:50Z",
+            "open_issues": 66,
             "owner": "riok",
             "repo": "mapperly",
-            "stars": 4160,
+            "stars": 4162,
             "topics": [
               "c-sharp",
               "csharp",
@@ -8169,7 +8169,7 @@
             "id": 30542524,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-02T12:47:24Z",
+            "last_commit": "2026-09-07T17:09:25Z",
             "open_issues": 28,
             "owner": "JasonBock",
             "repo": "Rocks",
@@ -8234,7 +8234,7 @@
             "open_issues": 13,
             "owner": "andrewlock",
             "repo": "NetEscapades.EnumGenerators",
-            "stars": 1124,
+            "stars": 1125,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:37.907Z"
@@ -8351,7 +8351,7 @@
             "open_issues": 55,
             "owner": "SteveDunn",
             "repo": "Vogen",
-            "stars": 1497,
+            "stars": 1498,
             "topics": [
               "contributions-welcome",
               "csharp-sourcegenerator",
@@ -8386,7 +8386,7 @@
             "open_issues": 7,
             "owner": "domn1995",
             "repo": "dunet",
-            "stars": 882,
+            "stars": 883,
             "topics": [
               "csharp",
               "csharp-sourcegenerator",
@@ -8422,7 +8422,7 @@
             "id": 512087796,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-04T23:55:38Z",
+            "last_commit": "2026-09-07T23:55:34Z",
             "open_issues": 1,
             "owner": "distantcam",
             "repo": "AutoCtor",
@@ -8601,11 +8601,11 @@
             "id": 210716005,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-07T10:31:38Z",
-            "open_issues": 7709,
+            "last_commit": "2026-09-08T09:57:40Z",
+            "open_issues": 7747,
             "owner": "dotnet",
             "repo": "runtime",
-            "stars": 18253,
+            "stars": 18254,
             "topics": [
               "dotnet",
               "hacktoberfest",
@@ -8665,11 +8665,11 @@
             "id": 210716005,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-07T10:31:38Z",
-            "open_issues": 7709,
+            "last_commit": "2026-09-08T09:57:40Z",
+            "open_issues": 7747,
             "owner": "dotnet",
             "repo": "runtime",
-            "stars": 18253,
+            "stars": 18254,
             "topics": [
               "dotnet",
               "hacktoberfest",
@@ -8727,11 +8727,11 @@
             "id": 210716005,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-07T10:31:38Z",
-            "open_issues": 7709,
+            "last_commit": "2026-09-08T09:57:40Z",
+            "open_issues": 7747,
             "owner": "dotnet",
             "repo": "runtime",
-            "stars": 18253,
+            "stars": 18254,
             "topics": [
               "dotnet",
               "hacktoberfest",
@@ -8785,7 +8785,7 @@
             "id": 295828621,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-03T14:33:21Z",
+            "last_commit": "2026-09-07T14:36:04Z",
             "open_issues": 4,
             "owner": "devlooped",
             "repo": "ThisAssembly",
@@ -8840,7 +8840,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -8897,7 +8897,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -8954,7 +8954,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -9013,7 +9013,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -9045,7 +9045,7 @@
             "id": 380525751,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-05T15:49:52Z",
+            "last_commit": "2026-09-07T14:19:36Z",
             "open_issues": 0,
             "owner": "archi-Doc",
             "repo": "BigMachines",
@@ -9070,7 +9070,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -9135,7 +9135,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -9197,7 +9197,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -9263,7 +9263,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -9340,7 +9340,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -9397,7 +9397,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -9454,7 +9454,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -9511,7 +9511,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -9547,7 +9547,7 @@
             "open_issues": 5,
             "owner": "FastEndpoints",
             "repo": "FastEndpoints",
-            "stars": 6005,
+            "stars": 6006,
             "topics": [
               "aspnet",
               "fastendpoints",
@@ -9575,7 +9575,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -9639,7 +9639,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -9702,7 +9702,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -9764,7 +9764,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -9821,7 +9821,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -9885,7 +9885,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -9949,7 +9949,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -10006,7 +10006,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -10073,7 +10073,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -10130,7 +10130,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -10194,7 +10194,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -10230,7 +10230,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -10296,7 +10296,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -10353,7 +10353,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -10413,7 +10413,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -10445,8 +10445,8 @@
             "id": 1022873381,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T06:29:50Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-08T04:17:38Z",
+            "open_issues": 3,
             "owner": "FoundatioFx",
             "repo": "Foundatio.Mediator",
             "stars": 40,
@@ -10470,7 +10470,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -10533,7 +10533,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -10599,7 +10599,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -10662,7 +10662,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -10727,7 +10727,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -10798,7 +10798,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -10855,7 +10855,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -10912,7 +10912,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -10975,7 +10975,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -11036,7 +11036,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -11093,7 +11093,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -11154,7 +11154,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -11211,7 +11211,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -11274,7 +11274,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -11340,7 +11340,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -11376,7 +11376,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -11412,7 +11412,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -11469,7 +11469,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -11526,7 +11526,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -11593,7 +11593,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -11629,7 +11629,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -11665,7 +11665,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -11701,7 +11701,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -11737,7 +11737,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -11773,7 +11773,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -11809,7 +11809,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -11845,7 +11845,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -11881,7 +11881,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -11917,7 +11917,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -11953,7 +11953,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -11989,7 +11989,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -12025,7 +12025,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -12061,7 +12061,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -12097,7 +12097,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -12133,7 +12133,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -12190,7 +12190,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -12247,7 +12247,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -12304,7 +12304,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -12361,7 +12361,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -12418,7 +12418,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -12475,7 +12475,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -12511,7 +12511,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -12547,7 +12547,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -12611,7 +12611,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -12647,7 +12647,7 @@
             "open_issues": 35,
             "owner": "Sergio0694",
             "repo": "PolySharp",
-            "stars": 2228,
+            "stars": 2229,
             "topics": [
               "csharp",
               "dotnet",
@@ -12677,7 +12677,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -12734,7 +12734,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -12795,7 +12795,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -12856,7 +12856,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -12913,7 +12913,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -12970,7 +12970,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -13035,7 +13035,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -13092,7 +13092,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -13155,7 +13155,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -13219,7 +13219,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -13282,7 +13282,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -13314,7 +13314,7 @@
             "id": 199141711,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-06T12:29:26Z",
+            "last_commit": "2026-09-08T08:46:20Z",
             "open_issues": 26,
             "owner": "bUnit-dev",
             "repo": "bUnit",
@@ -13354,7 +13354,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -13416,7 +13416,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -13476,7 +13476,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -13545,7 +13545,7 @@
             "open_issues": 36,
             "owner": "ignatandrei",
             "repo": "RSCG_Examples",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "awesome-list",
               "code-generate",
@@ -13612,7 +13612,7 @@
             "open_issues": 2,
             "owner": "StefH",
             "repo": "AnyOf",
-            "stars": 127,
+            "stars": 126,
             "topics": [
               "anyof",
               "multiple",
@@ -13952,7 +13952,7 @@
             "open_issues": 41,
             "owner": "Sergio0694",
             "repo": "ComputeSharp",
-            "stars": 3164,
+            "stars": 3165,
             "topics": [
               "computing",
               "csharp",
@@ -16045,7 +16045,7 @@
             "open_issues": 0,
             "owner": "wieslawsoltes",
             "repo": "Svg.Skia",
-            "stars": 728,
+            "stars": 729,
             "topics": [
               "2d",
               "avalonia",
@@ -16075,7 +16075,7 @@
             "id": 794203017,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-04T02:19:18Z",
+            "last_commit": "2026-09-07T15:02:14Z",
             "open_issues": 10,
             "owner": "tyevco",
             "repo": "TeCLI",
@@ -16292,7 +16292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T10:42:04.575Z",
+    "last_updated": "2026-09-08T10:03:48.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "Roslyn Source Code Generators with Examples",
