@@ -272,7 +272,7 @@ Nuget: <https://www.nuget.org/packages/EndpointHelpers/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/EndpointHelpers>
 
-Source: <https://github.com/gumbarros/EndpointHelpers> ⭐ 21 | 🐛 0 | 🌐 C# | 📅 2026-08-16
+Source: <https://github.com/gumbarros/EndpointHelpers> ⭐ 21 | 🐛 1 | 🌐 C# | 📅 2026-08-16
 
 </details>
 
@@ -956,7 +956,7 @@ Nuget: <https://www.nuget.org/packages/Monify/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Monify>
 
-Source: <https://github.com/MooVC/monify> ⭐ 1 | 🐛 1 | 🌐 C# | 📅 2026-09-17
+Source: <https://github.com/MooVC/monify> ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2026-09-18
 
 </details>
 
@@ -1051,13 +1051,13 @@ Author: Microsoft
 
 Provides APIs for annotating route handler endpoints in ASP.NET Core with OpenAPI annotations.
 
-This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,445 | 🐛 4,170 | 🌐 C# | 📅 2026-09-18
+This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,451 | 🐛 4,184 | 🌐 C# | 📅 2026-09-19
 
 Nuget: <https://www.nuget.org/packages/Microsoft.AspNetCore.OpenApi/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/XmlCommentGenerator>
 
-Source: <https://github.com/dotnet/dotnet/> ⭐ 1,271 | 🐛 173 | 🌐 C# | 📅 2026-09-18
+Source: <https://github.com/dotnet/dotnet/> ⭐ 1,273 | 🐛 171 | 🌐 C# | 📅 2026-09-19
 
 </details>
 
@@ -1074,7 +1074,7 @@ Nuget: <https://www.nuget.org/packages/TUnit/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/TUnit>
 
-Source: <https://github.com/thomhurst/TUnit> ⭐ 3,955 | 🐛 15 | 🌐 C# | 📅 2026-09-18
+Source: <https://github.com/thomhurst/TUnit> ⭐ 3,957 | 🐛 17 | 🌐 C# | 📅 2026-09-19
 
 </details>
 
@@ -1108,13 +1108,13 @@ Author: Microsoft
 
 Provides APIs for annotating route handler endpoints in ASP.NET Core with OpenAPI annotations.
 
-This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,445 | 🐛 4,170 | 🌐 C# | 📅 2026-09-18
+This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,451 | 🐛 4,184 | 🌐 C# | 📅 2026-09-19
 
 Nuget: <https://www.nuget.org/packages/Microsoft.AspNetCore.OpenApi>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Program>
 
-Source: <https://github.com/dotnet/aspnetcore/> ⭐ 38,445 | 🐛 4,170 | 🌐 C# | 📅 2026-09-18
+Source: <https://github.com/dotnet/aspnetcore/> ⭐ 38,451 | 🐛 4,184 | 🌐 C# | 📅 2026-09-19
 
 </details>
 
@@ -1590,7 +1590,7 @@ Nuget: <https://www.nuget.org/packages/StackXML/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/StackXML>
 
-Source: <https://github.com/ZingBallyhoo/StackXML> ⭐ 87 | 🐛 1 | 🌐 C# | 📅 2025-08-29
+Source: <https://github.com/ZingBallyhoo/StackXML> ⭐ 88 | 🐛 1 | 🌐 C# | 📅 2025-08-29
 
 </details>
 
@@ -2204,7 +2204,7 @@ Nuget: <https://www.nuget.org/packages/Pure.DI/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Pure.DI>
 
-Source: <https://github.com/DevTeam/Pure.DI> ⭐ 847 | 🐛 5 | 🌐 C# | 📅 2026-09-16
+Source: <https://github.com/DevTeam/Pure.DI> ⭐ 847 | 🐛 8 | 🌐 C# | 📅 2026-09-16
 
 </details>
 
@@ -2242,7 +2242,7 @@ Nuget: <https://www.nuget.org/packages/Valuify/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Valuify>
 
-Source: <https://github.com/MooVC/valuify> ⭐ 2 | 🐛 1 | 🌐 C# | 📅 2026-09-17
+Source: <https://github.com/MooVC/valuify> ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2026-09-18
 
 </details>
 
@@ -2318,7 +2318,7 @@ Nuget: <https://www.nuget.org/packages/Dapper.AOT/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Dapper.AOT>
 
-Source: <https://github.com/DapperLib/DapperAOT> ⭐ 471 | 🐛 55 | 🌐 C# | 📅 2026-09-11
+Source: <https://github.com/DapperLib/DapperAOT> ⭐ 472 | 🐛 55 | 🌐 C# | 📅 2026-09-11
 
 </details>
 
@@ -2337,7 +2337,7 @@ Nuget: <https://www.nuget.org/packages/Microsoft.Windows.CsWin32/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Microsoft.Windows.CsWin32>
 
-Source: <https://github.com/microsoft/CsWin32> ⭐ 2,517 | 🐛 134 | 🌐 C# | 📅 2026-09-18
+Source: <https://github.com/microsoft/CsWin32> ⭐ 2,518 | 🐛 135 | 🌐 C# | 📅 2026-09-18
 
 </details>
 
@@ -2432,7 +2432,7 @@ Nuget: <https://www.nuget.org/packages/Credfeto.Version.Information.Generator/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Credfeto.Version.Information.Generator>
 
-Source: <https://github.com/credfeto/credfeto-version-constants-generator> ⭐ 4 | 🐛 2 | 🌐 C# | 📅 2026-09-18
+Source: <https://github.com/credfeto/credfeto-version-constants-generator> ⭐ 4 | 🐛 2 | 🌐 C# | 📅 2026-09-19
 
 </details>
 
@@ -2451,7 +2451,7 @@ Nuget: <https://www.nuget.org/packages/polytype/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/polytype>
 
-Source: <https://github.com/eiriktsarpalis/PolyType> ⭐ 285 | 🐛 37 | 🌐 C# | 📅 2026-09-15
+Source: <https://github.com/eiriktsarpalis/PolyType> ⭐ 286 | 🐛 37 | 🌐 C# | 📅 2026-09-15
 
 </details>
 
@@ -2508,7 +2508,7 @@ Nuget: <https://www.nuget.org/packages/RazorSlices/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/RazorSlices>
 
-Source: <https://github.com/DamianEdwards/RazorSlices> ⭐ 583 | 🐛 15 | 🌐 HTML | 📅 2026-08-18
+Source: <https://github.com/DamianEdwards/RazorSlices> ⭐ 583 | 🐛 15 | 🌐 HTML | 📅 2026-09-19
 
 </details>
 
@@ -2565,7 +2565,7 @@ Nuget: <https://www.nuget.org/packages/Immediate.Handlers/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Immediate.Handlers>
 
-Source: <https://github.com/immediateplatform/Immediate.Handlers> ⭐ 202 | 🐛 6 | 🌐 C# | 📅 2026-09-11
+Source: <https://github.com/immediateplatform/Immediate.Handlers> ⭐ 202 | 🐛 9 | 🌐 C# | 📅 2026-09-18
 
 </details>
 
@@ -2698,7 +2698,7 @@ Nuget: <https://www.nuget.org/packages/Fluentify/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Fluentify>
 
-Source: <https://github.com/MooVC/fluentify> ⭐ 45 | 🐛 1 | 🌐 C# | 📅 2026-09-17
+Source: <https://github.com/MooVC/fluentify> ⭐ 45 | 🐛 0 | 🌐 C# | 📅 2026-09-18
 
 </details>
 
@@ -3221,7 +3221,7 @@ Nuget: <https://www.nuget.org/packages/MSTest.SourceGeneration/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/MSTest>
 
-Source: <https://github.com/microsoft/testfx> ⭐ 1,043 | 🐛 66 | 🌐 C# | 📅 2026-09-18
+Source: <https://github.com/microsoft/testfx> ⭐ 1,042 | 🐛 76 | 🌐 C# | 📅 2026-09-19
 
 </details>
 
@@ -3993,7 +3993,7 @@ Nuget: <https://www.nuget.org/packages/Microsoft.Extensions.Telemetry.Abstractio
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/TelemetryLogging>
 
-Source: <https://github.com/dotnet/extensions> ⭐ 3,209 | 🐛 270 | 🌐 C# | 📅 2026-09-15
+Source: <https://github.com/dotnet/extensions> ⭐ 3,210 | 🐛 272 | 🌐 C# | 📅 2026-09-19
 
 </details>
 
@@ -4038,7 +4038,7 @@ Nuget: <https://www.nuget.org/packages/System.Runtime.InteropServices/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Com>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,280 | 🐛 7,896 | 🌐 C# | 📅 2026-09-18
+Source: <https://github.com/dotnet/runtime> ⭐ 18,286 | 🐛 7,945 | 🌐 C# | 📅 2026-09-19
 
 </details>
 
@@ -4059,7 +4059,7 @@ Nuget: <https://www.nuget.org/packages/Microsoft.Extensions.Http>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/RDG>
 
-Source: <https://github.com/dotnet/aspnetcore> ⭐ 38,445 | 🐛 4,170 | 🌐 C# | 📅 2026-09-18
+Source: <https://github.com/dotnet/aspnetcore> ⭐ 38,451 | 🐛 4,184 | 🌐 C# | 📅 2026-09-19
 
 </details>
 
@@ -4097,7 +4097,7 @@ Nuget: <https://www.nuget.org/packages/Microsoft.Extensions.Options>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Microsoft.Extensions.Options.Generators.OptionsValidatorGenerator>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,280 | 🐛 7,896 | 🌐 C# | 📅 2026-09-18
+Source: <https://github.com/dotnet/runtime> ⭐ 18,286 | 🐛 7,945 | 🌐 C# | 📅 2026-09-19
 
 </details>
 
@@ -4154,7 +4154,7 @@ Nuget: <https://www.nuget.org/packages/Aviationexam.GeneratedJsonConverters.Sour
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/jsonConverterSourceGenerator>
 
-Source: <https://github.com/aviationexam/json-converter-source-generator> ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2026-09-18
+Source: <https://github.com/aviationexam/json-converter-source-generator> ⭐ 5 | 🐛 1 | 🌐 C# | 📅 2026-09-19
 
 </details>
 
@@ -4308,7 +4308,7 @@ Nuget: <https://www.nuget.org/packages/Credfeto.Enumeration.Source.Generation/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/CredFetoEnum>
 
-Source: <https://github.com/credfeto/credfeto-enum-source-generation> ⭐ 22 | 🐛 1 | 🌐 C# | 📅 2026-09-18
+Source: <https://github.com/credfeto/credfeto-enum-source-generation> ⭐ 22 | 🐛 1 | 🌐 C# | 📅 2026-09-19
 
 </details>
 
@@ -5087,7 +5087,7 @@ Nuget: <https://www.nuget.org/packages/MemoryPack/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/MemoryPack>
 
-Source: <https://github.com/Cysharp/MemoryPack> ⭐ 4,736 | 🐛 30 | 🌐 C# | 📅 2026-07-08
+Source: <https://github.com/Cysharp/MemoryPack> ⭐ 4,736 | 🐛 28 | 🌐 C# | 📅 2026-07-08
 
 </details>
 
@@ -5125,7 +5125,7 @@ Nuget: <https://www.nuget.org/packages/Mediator.SourceGenerator>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Mediator>
 
-Source: <https://github.com/martinothamar/Mediator> ⭐ 3,716 | 🐛 39 | 🌐 C# | 📅 2026-09-01
+Source: <https://github.com/martinothamar/Mediator> ⭐ 3,717 | 🐛 39 | 🌐 C# | 📅 2026-09-01
 
 </details>
 
@@ -5283,7 +5283,7 @@ Nuget: <https://www.nuget.org/packages/Rocks/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Rocks>
 
-Source: <https://github.com/JasonBock/Rocks/> ⭐ 391 | 🐛 30 | 🌐 C# | 📅 2026-09-17
+Source: <https://github.com/JasonBock/Rocks/> ⭐ 391 | 🐛 28 | 🌐 C# | 📅 2026-09-19
 
 </details>
 
@@ -5450,7 +5450,7 @@ Nuget: <https://www.nuget.org/packages/Vogen/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Vogen>
 
-Source: <https://github.com/SteveDunn/Vogen> ⭐ 1,505 | 🐛 58 | 🌐 C# | 📅 2026-09-14
+Source: <https://github.com/SteveDunn/Vogen> ⭐ 1,505 | 🐛 59 | 🌐 C# | 📅 2026-09-14
 
 </details>
 
@@ -5469,7 +5469,7 @@ Nuget: <https://www.nuget.org/packages/dunet/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/dunet>
 
-Source: <https://github.com/domn1995/dunet> ⭐ 883 | 🐛 9 | 🌐 C# | 📅 2026-09-17
+Source: <https://github.com/domn1995/dunet> ⭐ 883 | 🐛 8 | 🌐 C# | 📅 2026-09-19
 
 </details>
 
@@ -5488,7 +5488,7 @@ Nuget: <https://www.nuget.org/packages/AutoCtor/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/AutoCtor>
 
-Source: <https://github.com/distantcam/AutoCtor> ⭐ 113 | 🐛 1 | 🌐 C# | 📅 2026-09-16
+Source: <https://github.com/distantcam/AutoCtor> ⭐ 113 | 🐛 1 | 🌐 C# | 📅 2026-09-18
 
 </details>
 
@@ -5598,7 +5598,7 @@ Nuget: <https://www.nuget.org/packages/CommunityToolkit.Mvvm>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/CommunityToolkit.Mvvm>
 
-Source: <https://github.com/CommunityToolkit/dotnet> ⭐ 3,759 | 🐛 215 | 🌐 C# | 📅 2026-03-25
+Source: <https://github.com/CommunityToolkit/dotnet> ⭐ 3,760 | 🐛 215 | 🌐 C# | 📅 2026-03-25
 
 </details>
 
@@ -5636,7 +5636,7 @@ Nuget: <https://www.nuget.org/packages/Microsoft.Extensions.Logging/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Microsoft.Extensions.Logging>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,280 | 🐛 7,896 | 🌐 C# | 📅 2026-09-18
+Source: <https://github.com/dotnet/runtime> ⭐ 18,286 | 🐛 7,945 | 🌐 C# | 📅 2026-09-19
 
 </details>
 
@@ -5682,7 +5682,7 @@ Nuget: <https://www.nuget.org/packages/System.Text.RegularExpressions/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/System.Text.RegularExpressions>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,280 | 🐛 7,896 | 🌐 C# | 📅 2026-09-18
+Source: <https://github.com/dotnet/runtime> ⭐ 18,286 | 🐛 7,945 | 🌐 C# | 📅 2026-09-19
 
 </details>
 
@@ -5720,7 +5720,7 @@ Nuget: <https://www.nuget.org/packages/System.Text.Json/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/System.Text.Json>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,280 | 🐛 7,896 | 🌐 C# | 📅 2026-09-18
+Source: <https://github.com/dotnet/runtime> ⭐ 18,286 | 🐛 7,945 | 🌐 C# | 📅 2026-09-19
 
 </details>
 
@@ -5838,7 +5838,7 @@ Why I have not tested : later
 
 <https://github.com/ignatandrei/RSCG_Examples/issues/new?title=epj.RouteGenerator&body=https://github.com/ewerspej/epj.RouteGenerator> ⭐ 129 | 🐛 37 | 🌐 HTML | 📅 2026-09-18
 
-13. [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) ⭐ 6,015 | 🐛 4 | 🌐 C# | 📅 2026-09-17 , <https://github.com/FastEndpoints/FastEndpoints> ⭐ 6,015 | 🐛 4 | 🌐 C# | 📅 2026-09-17
+13. [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) ⭐ 6,016 | 🐛 4 | 🌐 C# | 📅 2026-09-17 , <https://github.com/FastEndpoints/FastEndpoints> ⭐ 6,016 | 🐛 4 | 🌐 C# | 📅 2026-09-17
 
 Why I have not tested : later
 
@@ -5940,7 +5940,7 @@ Why I have not tested : issue opened
 
 <https://github.com/ignatandrei/RSCG_Examples/issues/new?title=https://github.com/GaoNian-NET/MapperToolkit&body=https://github.com/GaoNian-NET/MapperToolkit> ⭐ 129 | 🐛 37 | 🌐 HTML | 📅 2026-09-18
 
-30. <https://github.com/gumbarros/EndpointHelpers> ⭐ 21 | 🐛 0 | 🌐 C# | 📅 2026-08-16 , <https://github.com/gumbarros/EndpointHelpers> ⭐ 21 | 🐛 0 | 🌐 C# | 📅 2026-08-16
+30. <https://github.com/gumbarros/EndpointHelpers> ⭐ 21 | 🐛 1 | 🌐 C# | 📅 2026-08-16 , <https://github.com/gumbarros/EndpointHelpers> ⭐ 21 | 🐛 1 | 🌐 C# | 📅 2026-08-16
 
 Why I have not tested : later
 
@@ -6258,7 +6258,7 @@ Why I have not tested : depends on Microsoft.Extensions.Localization
 
 <https://github.com/ignatandrei/RSCG_Examples/issues/new?title=TypealizR&body=https://github.com/earloc/TypealizR> ⭐ 129 | 🐛 37 | 🌐 HTML | 📅 2026-09-18
 
-83. [UnitTestBlazor](https://github.com/bUnit-dev/bUnit) ⭐ 1,303 | 🐛 29 | 🌐 C# | 📅 2026-09-17 , <https://github.com/bUnit-dev/bUnit> ⭐ 1,303 | 🐛 29 | 🌐 C# | 📅 2026-09-17
+83. [UnitTestBlazor](https://github.com/bUnit-dev/bUnit) ⭐ 1,303 | 🐛 31 | 🌐 C# | 📅 2026-09-18 , <https://github.com/bUnit-dev/bUnit> ⭐ 1,303 | 🐛 31 | 🌐 C# | 📅 2026-09-18
 
 Why I have not tested : issue opened
 
@@ -6341,11 +6341,11 @@ Why I have not tested : old ISourceGenerator
 
 Why I have not tested : old ISourceGenerator
 
-14. [ComputeSharp](https://github.com/Sergio0694/ComputeSharp) ⭐ 3,167 | 🐛 42 | 🌐 C# | 📅 2026-09-17 , <https://github.com/Sergio0694/ComputeSharp> ⭐ 3,167 | 🐛 42 | 🌐 C# | 📅 2026-09-17
+14. [ComputeSharp](https://github.com/Sergio0694/ComputeSharp) ⭐ 3,167 | 🐛 42 | 🌐 C# | 📅 2026-09-18 , <https://github.com/Sergio0694/ComputeSharp> ⭐ 3,167 | 🐛 42 | 🌐 C# | 📅 2026-09-18
 
 Why I have not tested : not having nuget, but having IIncrementalGenerator
 
-15. [CoreWCF](https://github.com/CoreWCF/CoreWCF) ⭐ 1,777 | 🐛 400 | 🌐 C# | 📅 2026-08-28 , <https://github.com/CoreWCF/CoreWCF> ⭐ 1,777 | 🐛 400 | 🌐 C# | 📅 2026-08-28
+15. [CoreWCF](https://github.com/CoreWCF/CoreWCF) ⭐ 1,776 | 🐛 400 | 🌐 C# | 📅 2026-08-28 , <https://github.com/CoreWCF/CoreWCF> ⭐ 1,776 | 🐛 400 | 🌐 C# | 📅 2026-08-28
 
 Why I have not tested : not having nuget, but having IIncrementalGenerator
 
@@ -6625,7 +6625,7 @@ Why I have not tested : old ISourceGenerator
 
 Why I have not tested : old ISourceGenerator
 
-85. [PureHDF](https://github.com/Apollo3zehn/PureHDF) ⭐ 83 | 🐛 59 | 🌐 C# | 📅 2026-08-21 , <https://github.com/Apollo3zehn/PureHDF> ⭐ 83 | 🐛 59 | 🌐 C# | 📅 2026-08-21
+85. [PureHDF](https://github.com/Apollo3zehn/PureHDF) ⭐ 83 | 🐛 63 | 🌐 C# | 📅 2026-08-21 , <https://github.com/Apollo3zehn/PureHDF> ⭐ 83 | 🐛 63 | 🌐 C# | 📅 2026-08-21
 
 Why I have not tested : old ISourceGenerator
 
@@ -6665,7 +6665,7 @@ Why I have not tested : old ISourceGenerator
 
 Why I have not tested : old ISourceGenerator
 
-95. [SourceInject](https://github.com/giggio/sourceinject/) ⭐ 81 | 🐛 0 | 🌐 C# | 📅 2022-10-15 , <https://github.com/giggio/sourceinject/> ⭐ 81 | 🐛 0 | 🌐 C# | 📅 2022-10-15
+95. [SourceInject](https://github.com/giggio/sourceinject/) ⭐ 80 | 🐛 0 | 🌐 C# | 📅 2022-10-15 , <https://github.com/giggio/sourceinject/> ⭐ 80 | 🐛 0 | 🌐 C# | 📅 2022-10-15
 
 Why I have not tested : old ISourceGenerator
 
@@ -6681,7 +6681,7 @@ Why I have not tested : old ISourceGenerator
 
 Why I have not tested : old ISourceGenerator
 
-99. [StackXML](https://github.com/ZingBallyhoo/StackXML) ⭐ 87 | 🐛 1 | 🌐 C# | 📅 2025-08-29 , <https://github.com/ZingBallyhoo/StackXML> ⭐ 87 | 🐛 1 | 🌐 C# | 📅 2025-08-29
+99. [StackXML](https://github.com/ZingBallyhoo/StackXML) ⭐ 88 | 🐛 1 | 🌐 C# | 📅 2025-08-29 , <https://github.com/ZingBallyhoo/StackXML> ⭐ 88 | 🐛 1 | 🌐 C# | 📅 2025-08-29
 
 Why I have not tested : old ISourceGenerator
 
@@ -6777,4 +6777,4 @@ This is the list
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
