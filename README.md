@@ -1089,13 +1089,13 @@ Author: Microsoft
 
 Provides APIs for annotating route handler endpoints in ASP.NET Core with OpenAPI annotations.
 
-This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,464 | 🐛 4,206 | 🌐 C# | 📅 2026-10-02
+This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,465 | 🐛 4,206 | 🌐 C# | 📅 2026-10-02
 
 Nuget: <https://www.nuget.org/packages/Microsoft.AspNetCore.OpenApi/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/XmlCommentGenerator>
 
-Source: <https://github.com/dotnet/dotnet/> ⭐ 1,285 | 🐛 199 | 🌐 C# | 📅 2026-10-03
+Source: <https://github.com/dotnet/dotnet/> ⭐ 1,286 | 🐛 186 | 🌐 C# | 📅 2026-10-03
 
 </details>
 
@@ -1146,13 +1146,13 @@ Author: Microsoft
 
 Provides APIs for annotating route handler endpoints in ASP.NET Core with OpenAPI annotations.
 
-This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,464 | 🐛 4,206 | 🌐 C# | 📅 2026-10-02
+This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,465 | 🐛 4,206 | 🌐 C# | 📅 2026-10-02
 
 Nuget: <https://www.nuget.org/packages/Microsoft.AspNetCore.OpenApi>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Program>
 
-Source: <https://github.com/dotnet/aspnetcore/> ⭐ 38,464 | 🐛 4,206 | 🌐 C# | 📅 2026-10-02
+Source: <https://github.com/dotnet/aspnetcore/> ⭐ 38,465 | 🐛 4,206 | 🌐 C# | 📅 2026-10-02
 
 </details>
 
@@ -1323,7 +1323,7 @@ Nuget: <https://www.nuget.org/packages/mvvmgen/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/mvvmgen>
 
-Source: <https://github.com/thomasclaudiushuber/mvvmgen> ⭐ 263 | 🐛 12 | 🌐 C# | 📅 2026-06-12
+Source: <https://github.com/thomasclaudiushuber/mvvmgen> ⭐ 264 | 🐛 12 | 🌐 C# | 📅 2026-06-12
 
 </details>
 
@@ -2489,7 +2489,7 @@ Nuget: <https://www.nuget.org/packages/polytype/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/polytype>
 
-Source: <https://github.com/eiriktsarpalis/PolyType> ⭐ 286 | 🐛 32 | 🌐 C# | 📅 2026-10-02
+Source: <https://github.com/eiriktsarpalis/PolyType> ⭐ 287 | 🐛 32 | 🌐 C# | 📅 2026-10-02
 
 </details>
 
@@ -2546,7 +2546,7 @@ Nuget: <https://www.nuget.org/packages/RazorSlices/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/RazorSlices>
 
-Source: <https://github.com/DamianEdwards/RazorSlices> ⭐ 584 | 🐛 15 | 🌐 HTML | 📅 2026-09-28
+Source: <https://github.com/DamianEdwards/RazorSlices> ⭐ 585 | 🐛 15 | 🌐 HTML | 📅 2026-09-28
 
 </details>
 
@@ -3259,7 +3259,7 @@ Nuget: <https://www.nuget.org/packages/MSTest.SourceGeneration/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/MSTest>
 
-Source: <https://github.com/microsoft/testfx> ⭐ 1,046 | 🐛 65 | 🌐 C# | 📅 2026-10-03
+Source: <https://github.com/microsoft/testfx> ⭐ 1,046 | 🐛 67 | 🌐 C# | 📅 2026-10-03
 
 </details>
 
@@ -3898,7 +3898,7 @@ Nuget: <https://www.nuget.org/packages/AltaSoft.DomainPrimitives.Generator>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/DomainPrimitives>
 
-Source: <https://github.com/altasoft/DomainPrimitives> ⭐ 63 | 🐛 0 | 🌐 C# | 📅 2026-09-09
+Source: <https://github.com/altasoft/DomainPrimitives> ⭐ 64 | 🐛 0 | 🌐 C# | 📅 2026-09-09
 
 </details>
 
@@ -4097,7 +4097,7 @@ Nuget: <https://www.nuget.org/packages/Microsoft.Extensions.Http>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/RDG>
 
-Source: <https://github.com/dotnet/aspnetcore> ⭐ 38,464 | 🐛 4,206 | 🌐 C# | 📅 2026-10-02
+Source: <https://github.com/dotnet/aspnetcore> ⭐ 38,465 | 🐛 4,206 | 🌐 C# | 📅 2026-10-02
 
 </details>
 
@@ -4192,7 +4192,7 @@ Nuget: <https://www.nuget.org/packages/Aviationexam.GeneratedJsonConverters.Sour
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/jsonConverterSourceGenerator>
 
-Source: <https://github.com/aviationexam/json-converter-source-generator> ⭐ 5 | 🐛 1 | 🌐 C# | 📅 2026-10-02
+Source: <https://github.com/aviationexam/json-converter-source-generator> ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2026-10-03
 
 </details>
 
@@ -5005,7 +5005,7 @@ Nuget: <https://www.nuget.org/packages/FastGenericNew.SourceGenerator/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/FastGenericNew>
 
-Source: <https://github.com/Nyrest/FastGenericNew> ⭐ 280 | 🐛 8 | 🌐 C# | 📅 2026-08-25
+Source: <https://github.com/Nyrest/FastGenericNew> ⭐ 281 | 🐛 8 | 🌐 C# | 📅 2026-08-25
 
 </details>
 
@@ -5302,7 +5302,7 @@ Nuget: <https://www.nuget.org/packages/Riok.Mapperly/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/mapperly>
 
-Source: <https://github.com/riok/mapperly> ⭐ 4,177 | 🐛 74 | 🌐 C# | 📅 2026-09-29
+Source: <https://github.com/riok/mapperly> ⭐ 4,177 | 🐛 75 | 🌐 C# | 📅 2026-10-03
 
 </details>
 
@@ -5876,7 +5876,7 @@ Why I have not tested : later
 
 <https://github.com/ignatandrei/RSCG_Examples/issues/new?title=epj.RouteGenerator&body=https://github.com/ewerspej/epj.RouteGenerator>
 
-13. [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) ⭐ 6,012 | 🐛 5 | 🌐 C# | 📅 2026-10-03 , <https://github.com/FastEndpoints/FastEndpoints> ⭐ 6,012 | 🐛 5 | 🌐 C# | 📅 2026-10-03
+13. [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) ⭐ 6,013 | 🐛 4 | 🌐 C# | 📅 2026-10-03 , <https://github.com/FastEndpoints/FastEndpoints> ⭐ 6,013 | 🐛 4 | 🌐 C# | 📅 2026-10-03
 
 Why I have not tested : later
 
@@ -6379,7 +6379,7 @@ Why I have not tested : old ISourceGenerator
 
 Why I have not tested : old ISourceGenerator
 
-14. [ComputeSharp](https://github.com/Sergio0694/ComputeSharp) ⭐ 3,174 | 🐛 44 | 🌐 C# | 📅 2026-09-18 , <https://github.com/Sergio0694/ComputeSharp> ⭐ 3,174 | 🐛 44 | 🌐 C# | 📅 2026-09-18
+14. [ComputeSharp](https://github.com/Sergio0694/ComputeSharp) ⭐ 3,175 | 🐛 44 | 🌐 C# | 📅 2026-09-18 , <https://github.com/Sergio0694/ComputeSharp> ⭐ 3,175 | 🐛 44 | 🌐 C# | 📅 2026-09-18
 
 Why I have not tested : not having nuget, but having IIncrementalGenerator
 
