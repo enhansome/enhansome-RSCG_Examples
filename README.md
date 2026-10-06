@@ -1089,13 +1089,13 @@ Author: Microsoft
 
 Provides APIs for annotating route handler endpoints in ASP.NET Core with OpenAPI annotations.
 
-This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,466 | 🐛 4,218 | 🌐 C# | 📅 2026-10-06
+This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,465 | 🐛 4,219 | 🌐 C# | 📅 2026-10-06
 
 Nuget: <https://www.nuget.org/packages/Microsoft.AspNetCore.OpenApi/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/XmlCommentGenerator>
 
-Source: <https://github.com/dotnet/dotnet/> ⭐ 1,286 | 🐛 184 | 🌐 C# | 📅 2026-10-06
+Source: <https://github.com/dotnet/dotnet/> ⭐ 1,287 | 🐛 187 | 🌐 C# | 📅 2026-10-06
 
 </details>
 
@@ -1146,13 +1146,13 @@ Author: Microsoft
 
 Provides APIs for annotating route handler endpoints in ASP.NET Core with OpenAPI annotations.
 
-This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,466 | 🐛 4,218 | 🌐 C# | 📅 2026-10-06
+This package was built from the source code at <https://github.com/dotnet/aspnetcore/tree/e77cb01b5529c137130757859f09f892dbdd2436> ⭐ 38,465 | 🐛 4,219 | 🌐 C# | 📅 2026-10-06
 
 Nuget: <https://www.nuget.org/packages/Microsoft.AspNetCore.OpenApi>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Program>
 
-Source: <https://github.com/dotnet/aspnetcore/> ⭐ 38,466 | 🐛 4,218 | 🌐 C# | 📅 2026-10-06
+Source: <https://github.com/dotnet/aspnetcore/> ⭐ 38,465 | 🐛 4,219 | 🌐 C# | 📅 2026-10-06
 
 </details>
 
@@ -1247,7 +1247,7 @@ Nuget: <https://www.nuget.org/packages/ConsoleAppFramework/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/ConsoleAppFramework>
 
-Source: <https://github.com/Cysharp/ConsoleAppFramework> ⭐ 2,226 | 🐛 12 | 🌐 C# | 📅 2026-10-06
+Source: <https://github.com/Cysharp/ConsoleAppFramework> ⭐ 2,225 | 🐛 12 | 🌐 C# | 📅 2026-10-06
 
 </details>
 
@@ -1863,7 +1863,7 @@ Nuget: <https://www.nuget.org/packages/Figgle.Generator/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Figgle>
 
-Source: <https://github.com/drewnoakes/figgle> ⭐ 495 | 🐛 5 | 🌐 C# | 📅 2026-05-06
+Source: <https://github.com/drewnoakes/figgle> ⭐ 494 | 🐛 5 | 🌐 C# | 📅 2026-05-06
 
 </details>
 
@@ -2356,7 +2356,7 @@ Nuget: <https://www.nuget.org/packages/Dapper.AOT/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Dapper.AOT>
 
-Source: <https://github.com/DapperLib/DapperAOT> ⭐ 473 | 🐛 58 | 🌐 C# | 📅 2026-09-23
+Source: <https://github.com/DapperLib/DapperAOT> ⭐ 472 | 🐛 58 | 🌐 C# | 📅 2026-09-23
 
 </details>
 
@@ -2375,7 +2375,7 @@ Nuget: <https://www.nuget.org/packages/Microsoft.Windows.CsWin32/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Microsoft.Windows.CsWin32>
 
-Source: <https://github.com/microsoft/CsWin32> ⭐ 2,524 | 🐛 134 | 🌐 C# | 📅 2026-10-06
+Source: <https://github.com/microsoft/CsWin32> ⭐ 2,523 | 🐛 134 | 🌐 C# | 📅 2026-10-06
 
 </details>
 
@@ -2796,13 +2796,13 @@ underscore separator to organize strings. For example, *User\_InvalidCredentials
 accessed with *ThisAssembly.Strings.User.InvalidCredentials* if it contains a simple string,
 or as a method with the right number of parametres if its value has a format string.
 
-Built from <https://github.com/kzu/ThisAssembly/tree/f77a712b7> ⭐ 531 | 🐛 6 | 🌐 C# | 📅 2026-09-30
+Built from <https://github.com/kzu/ThisAssembly/tree/f77a712b7> ⭐ 531 | 🐛 5 | 🌐 C# | 📅 2026-10-06
 
 Nuget: <https://www.nuget.org/packages/ThisAssembly.Strings/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/ThisAssembly.Strings>
 
-Source: <https://github.com/devlooped/ThisAssembly> ⭐ 531 | 🐛 6 | 🌐 C# | 📅 2026-09-30
+Source: <https://github.com/devlooped/ThisAssembly> ⭐ 531 | 🐛 5 | 🌐 C# | 📅 2026-10-06
 
 </details>
 
@@ -2848,7 +2848,7 @@ Nuget: <https://www.nuget.org/packages/ThisAssembly.Metadata/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/ThisAssembly.Metadata>
 
-Source: <https://github.com/devlooped/ThisAssembly> ⭐ 531 | 🐛 6 | 🌐 C# | 📅 2026-09-30
+Source: <https://github.com/devlooped/ThisAssembly> ⭐ 531 | 🐛 5 | 🌐 C# | 📅 2026-10-06
 
 </details>
 
@@ -2914,7 +2914,7 @@ Nuget: <https://www.nuget.org/packages/ThisAssembly.Constants/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/ThisAssembly.Constants>
 
-Source: <https://github.com/devlooped/ThisAssembly> ⭐ 531 | 🐛 6 | 🌐 C# | 📅 2026-09-30
+Source: <https://github.com/devlooped/ThisAssembly> ⭐ 531 | 🐛 5 | 🌐 C# | 📅 2026-10-06
 
 </details>
 
@@ -3643,7 +3643,7 @@ Nuget: <https://www.nuget.org/packages/jab/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/jab>
 
-Source: <https://github.com/pakrym/jab> ⭐ 1,253 | 🐛 23 | 🌐 C# | 📅 2025-09-12
+Source: <https://github.com/pakrym/jab> ⭐ 1,252 | 🐛 23 | 🌐 C# | 📅 2025-09-12
 
 </details>
 
@@ -4076,7 +4076,7 @@ Nuget: <https://www.nuget.org/packages/System.Runtime.InteropServices/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Com>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,315 | 🐛 8,072 | 🌐 C# | 📅 2026-10-06
+Source: <https://github.com/dotnet/runtime> ⭐ 18,314 | 🐛 8,073 | 🌐 C# | 📅 2026-10-06
 
 </details>
 
@@ -4097,7 +4097,7 @@ Nuget: <https://www.nuget.org/packages/Microsoft.Extensions.Http>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/RDG>
 
-Source: <https://github.com/dotnet/aspnetcore> ⭐ 38,466 | 🐛 4,218 | 🌐 C# | 📅 2026-10-06
+Source: <https://github.com/dotnet/aspnetcore> ⭐ 38,465 | 🐛 4,219 | 🌐 C# | 📅 2026-10-06
 
 </details>
 
@@ -4135,7 +4135,7 @@ Nuget: <https://www.nuget.org/packages/Microsoft.Extensions.Options>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Microsoft.Extensions.Options.Generators.OptionsValidatorGenerator>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,315 | 🐛 8,072 | 🌐 C# | 📅 2026-10-06
+Source: <https://github.com/dotnet/runtime> ⭐ 18,314 | 🐛 8,073 | 🌐 C# | 📅 2026-10-06
 
 </details>
 
@@ -4652,7 +4652,7 @@ Nuget: <https://www.nuget.org/packages/ThisAssembly.Resources/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/ThisAssembly_Resources>
 
-Source: <https://github.com/devlooped/ThisAssembly> ⭐ 531 | 🐛 6 | 🌐 C# | 📅 2026-09-30
+Source: <https://github.com/devlooped/ThisAssembly> ⭐ 531 | 🐛 5 | 🌐 C# | 📅 2026-10-06
 
 </details>
 
@@ -5125,7 +5125,7 @@ Nuget: <https://www.nuget.org/packages/MemoryPack/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/MemoryPack>
 
-Source: <https://github.com/Cysharp/MemoryPack> ⭐ 4,750 | 🐛 25 | 🌐 C# | 📅 2026-10-06
+Source: <https://github.com/Cysharp/MemoryPack> ⭐ 4,752 | 🐛 25 | 🌐 C# | 📅 2026-10-06
 
 </details>
 
@@ -5674,7 +5674,7 @@ Nuget: <https://www.nuget.org/packages/Microsoft.Extensions.Logging/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/Microsoft.Extensions.Logging>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,315 | 🐛 8,072 | 🌐 C# | 📅 2026-10-06
+Source: <https://github.com/dotnet/runtime> ⭐ 18,314 | 🐛 8,073 | 🌐 C# | 📅 2026-10-06
 
 </details>
 
@@ -5720,7 +5720,7 @@ Nuget: <https://www.nuget.org/packages/System.Text.RegularExpressions/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/System.Text.RegularExpressions>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,315 | 🐛 8,072 | 🌐 C# | 📅 2026-10-06
+Source: <https://github.com/dotnet/runtime> ⭐ 18,314 | 🐛 8,073 | 🌐 C# | 📅 2026-10-06
 
 </details>
 
@@ -5758,7 +5758,7 @@ Nuget: <https://www.nuget.org/packages/System.Text.Json/>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/System.Text.Json>
 
-Source: <https://github.com/dotnet/runtime> ⭐ 18,315 | 🐛 8,072 | 🌐 C# | 📅 2026-10-06
+Source: <https://github.com/dotnet/runtime> ⭐ 18,314 | 🐛 8,073 | 🌐 C# | 📅 2026-10-06
 
 </details>
 
@@ -5796,7 +5796,7 @@ Nuget: <https://www.nuget.org/packages/ThisAssembly>
 
 Link: <https://ignatandrei.github.io/RSCG_Examples/v2/docs/ThisAssembly>
 
-Source: <https://github.com/devlooped/ThisAssembly> ⭐ 531 | 🐛 6 | 🌐 C# | 📅 2026-09-30
+Source: <https://github.com/devlooped/ThisAssembly> ⭐ 531 | 🐛 5 | 🌐 C# | 📅 2026-10-06
 
 </details>
 
@@ -5876,7 +5876,7 @@ Why I have not tested : later
 
 <https://github.com/ignatandrei/RSCG_Examples/issues/new?title=epj.RouteGenerator&body=https://github.com/ewerspej/epj.RouteGenerator>
 
-13. [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) ⭐ 6,014 | 🐛 6 | 🌐 C# | 📅 2026-10-06 , <https://github.com/FastEndpoints/FastEndpoints> ⭐ 6,014 | 🐛 6 | 🌐 C# | 📅 2026-10-06
+13. [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) ⭐ 6,013 | 🐛 6 | 🌐 C# | 📅 2026-10-06 , <https://github.com/FastEndpoints/FastEndpoints> ⭐ 6,013 | 🐛 6 | 🌐 C# | 📅 2026-10-06
 
 Why I have not tested : later
 
@@ -6331,7 +6331,7 @@ Those examples are made with old ISourceGenerator or have other problems
 
 Why I have not tested : old ISourceGenerator
 
-2. [AnyOf](https://github.com/StefH/AnyOf) ⭐ 126 | 🐛 2 | 🌐 C# | 📅 2025-06-13 , <https://github.com/StefH/AnyOf> ⭐ 126 | 🐛 2 | 🌐 C# | 📅 2025-06-13
+2. [AnyOf](https://github.com/StefH/AnyOf) ⭐ 122 | 🐛 2 | 🌐 C# | 📅 2025-06-13 , <https://github.com/StefH/AnyOf> ⭐ 122 | 🐛 2 | 🌐 C# | 📅 2025-06-13
 
 Why I have not tested : old ISourceGenerator
 
